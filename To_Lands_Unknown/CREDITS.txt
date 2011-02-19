@@ -1,0 +1,33 @@
+--Credits--
+
+"Campaign Design"
+ - inferno8
+
+"WML Coding"
+ - inferno8
+
+"Artwork & Levels Design"
+ - inferno8
+
+"Writing Revisions"
+ - Brandon J. Van Every (bvanevery)
+ - barowei
+
+"WML Debugging"
+ - Brandon J. Van Every (bvanevery)
+
+"Proof-reading"
+ - sur.nhm
+ - Dixie
+ - wesfreak
+ - bigkahuna
+
+"Gameplay Testing"
+ - inferno8
+ - Sagez
+ - barowei
+ - Brandon J. Van Every (bvanevery)
+ - Captain_Wrathbow
+
+"Terrain Code Improvements"
+ - Alarantalara

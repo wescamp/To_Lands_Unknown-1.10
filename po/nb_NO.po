@@ -9,7 +9,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fur\n"
+"Language: nb_NO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:13
@@ -28,7 +29,7 @@ msgstr ""
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:18
-msgid "(Easy) unbalanced"
+msgid "(Easy) unb_NOalanced"
 msgstr ""
 
 #. [campaign]: id=To_Lands_Unknown
@@ -48,7 +49,7 @@ msgstr ""
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:20
-msgid "(Hard) unbalanced"
+msgid "(Hard) unb_NOalanced"
 msgstr ""
 
 #. [campaign]: id=To_Lands_Unknown
@@ -1910,7 +1911,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:121
 msgid ""
 "Legends say, that this scimitar was made from the spark of Abyss. His power "
-"is allegedly unbelievable.\n"
+"is allegedly unb_NOelievable.\n"
 "Attack increases by 100%\n"
 "Chance to hit is constant and equals 70%"
 msgstr ""

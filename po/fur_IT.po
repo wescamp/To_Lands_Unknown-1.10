@@ -9,8 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: nb\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fur_IT\n"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:13
@@ -1132,7 +1131,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:742
 msgid ""
-"It looks like the fire elementals make them furious. If I wouldn't have "
+"It looks like the fire elementals make them fur_ITious. If I wouldn't have "
 "shown him, everything would have ended in a different way. Too many lives "
 "were lost."
 msgstr ""
@@ -1214,7 +1213,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:348
 msgid ""
-"Something must happened. They were completely furious. They couldn't have "
+"Something must happened. They were completely fur_ITious. They couldn't have "
 "just run away..."
 msgstr ""
 
@@ -2736,7 +2735,7 @@ msgstr ""
 #. [message]: speaker=Malib
 #: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:977
 msgid ""
-"These witches have cast a spell on you. You flied into a fury and started "
+"These witches have cast a spell on you. You flied into a fur_ITy and started "
 "killing our men. We are lucky that holy Rashti'rhami has killed the witch "
 "and stopped your madness..."
 msgstr ""
@@ -3557,7 +3556,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:16
 msgid ""
 "According to what he said, about half a year ago the Kharosans had had lost "
-"contact with all of their furthest locals on the east. Messengers had never "
+"contact with all of their fur_ITthest locals on the east. Messengers had never "
 "returned. When more towns have started to disappear, the ruler of Kharos, "
 "the Highest Priest of Light, Anthi, had ordered to the middle-lands "
 "fortified in order to beat off possible attacks by those invisible invaders. "
@@ -3588,7 +3587,7 @@ msgid ""
 "of the Water of Life, which had helped him to travel safely through the "
 "desert. He had managed to acquire some of this wonderful liquid just in time "
 "before the forest had been seized by the dark hordes. Next, he had set out "
-"to the furthest city of the south, Saffaros, and sailed across the sea to "
+"to the fur_ITthest city of the south, Saffaros, and sailed across the sea to "
 "the Great Desert. Right after landing, he saw a giant tower looming over the "
 "horizon. He decided to go in that direction, thinking he would find "
 "civilization there. Atiros had seen the highest tower of Al-Kamija, whose "

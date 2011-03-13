@@ -1,11 +1,13 @@
+#
+# Automatically generated <>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-27 17:20+0100\n"
-"PO-Revision-Date: 2011-02-21 15:37+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2010-12-31 14:23+0100\n"
+"Last-Translator: Automatically generated <>\n"
+"Language-Team: none <>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,46 +16,55 @@ msgstr ""
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:12
+#, fuzzy
 msgid "To Lands Unknown"
-msgstr ""
+msgstr "Vers des terres Inconnues "
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:13
+#, fuzzy
 msgid "TLU"
-msgstr ""
+msgstr "TLU"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:17
+#, fuzzy
 msgid "Novice Summoner"
-msgstr ""
+msgstr "Invocateur Novice"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:17
+#, fuzzy
 msgid "(Easy) unbalanced"
-msgstr ""
+msgstr "(facile) pas équilibré"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:18
+#, fuzzy
 msgid "(Normal)"
-msgstr ""
+msgstr "(normal)"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:18
+#, fuzzy
 msgid "Summoner"
-msgstr ""
+msgstr "Invocateur"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:19
+#, fuzzy
 msgid "Grand Summoner"
-msgstr ""
+msgstr "Grand Invocateur"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:19
+#, fuzzy
 msgid "(Hard) unbalanced"
-msgstr ""
+msgstr "(difficile) pas équilibré"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:42
+#, fuzzy
 msgid ""
 "<span color='#BCB088' size='large'>To Lands Unknown</span>\n"
 "\n"
@@ -80,6 +91,31 @@ msgid ""
 "Yours sincerely,\n"
 "Sur.nhm)</span>"
 msgstr ""
+"<span color='#BCB088' size='large'>Vers des Terres Inconnues</span>\n"
+"\n"
+"<span font-style='italic'> Oyez la saga,\n"
+"Vous étranger en pays désolée\n"
+"Par ce conte du plus ancien pays ,\n"
+"Des invocateurs d'Al Kamija,\n"
+"Ces mages mythiques\n"
+"Aux pouvoirs infinis,\n"
+"De leurs serviteurs abyssaux\n"
+"A la fois bon et mauvais,\n"
+"Et de Mehir, qui est,\n"
+"comme jadis prédit,\n"
+"sauveur de toute vie.</span>\n"
+"\n"
+"C'est l'histoire de Mehir, l'Invocateur, et de son voyage vers des terres "
+"inconnues. (Niveau intermédiaire, 20 scénarios)\n"
+"\n"
+"<span size='small'> (Note du relecteur:\n"
+"Même si j'ai relu toute la campagne et corrigé les erreurs que j'ai "
+"remarquées, j'en ai peut-être manquées certaines.\n"
+"si vous voyez des fautes de grammaire, d'orthographe ou des points obscurs "
+"ou des parties en Polonais, faites nous le savoir par message personnel sur "
+"le forum, soit à moi soi à Inferno8\n"
+"Sincérement votre,\n"
+"Sur.nhm)</span>"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/macros/dialogues.cfg:10
@@ -153,8 +189,9 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/macros/dialogues.cfg:137
+#, fuzzy
 msgid "Do you hear that?"
-msgstr ""
+msgstr "Attendez! Avez-vous entendus ça?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/macros/dialogues.cfg:196
@@ -190,36 +227,45 @@ msgstr ""
 
 #. [unstore_unit]
 #: To_Lands_Unknown/macros/macros.cfg:136
+#, fuzzy
 msgid "Recalled..."
-msgstr ""
+msgstr "Rappelé..."
 
 #. [dummy]: id=metamorph
 #: To_Lands_Unknown/macros/macros.cfg:155
+#, fuzzy
 msgid "Metamorph"
-msgstr ""
+msgstr "Métamorphe"
 
 #. [dummy]: id=metamorph
 #: To_Lands_Unknown/macros/macros.cfg:157
+#, fuzzy
 msgid ""
 "Metamorph:\n"
 "this elemental can turn into another type of elemental."
 msgstr ""
+"Metamorphe\n"
+"cet élémental peut se tranformer en un autre type d'élémental"
 
 #: To_Lands_Unknown/macros/macros.cfg:255
+#, fuzzy
 msgid "Turn into fire"
-msgstr ""
+msgstr "Transforme en {ELEM}"
 
 #: To_Lands_Unknown/macros/macros.cfg:256
+#, fuzzy
 msgid "Turn into water"
-msgstr ""
+msgstr "Transforme en {ELEM}"
 
 #: To_Lands_Unknown/macros/macros.cfg:257
+#, fuzzy
 msgid "Turn into air"
-msgstr ""
+msgstr "Transforme en {ELEM}"
 
 #: To_Lands_Unknown/macros/macros.cfg:258
+#, fuzzy
 msgid "Turn into earth"
-msgstr ""
+msgstr "Transforme en {ELEM}"
 
 #: To_Lands_Unknown/macros/macros.cfg:320
 #: To_Lands_Unknown/macros/macros.cfg:442
@@ -227,8 +273,9 @@ msgstr ""
 #: To_Lands_Unknown/macros/macros.cfg:583
 #: To_Lands_Unknown/macros/macros.cfg:663
 #: To_Lands_Unknown/macros/macros.cfg:744
+#, fuzzy
 msgid "Take it"
-msgstr ""
+msgstr "Prend-le"
 
 #: To_Lands_Unknown/macros/macros.cfg:342
 #: To_Lands_Unknown/macros/macros.cfg:475
@@ -236,65 +283,87 @@ msgstr ""
 #: To_Lands_Unknown/macros/macros.cfg:626
 #: To_Lands_Unknown/macros/macros.cfg:707
 #: To_Lands_Unknown/macros/macros.cfg:790
+#, fuzzy
 msgid "Leave it"
-msgstr ""
+msgstr "laisse-le"
 
 #: To_Lands_Unknown/macros/macros.cfg:380
+#, fuzzy
 msgid ""
 "At the moment you do not have a unit in your army who could use this "
 "artifact. However the item will be picked up, so it can wait for a suitable "
 "unit to be recruited or recalled."
 msgstr ""
+"Vous n'avez pour le moment aucune unité capable d'utiliser cet artéfact dans "
+"votre armée, il sera donc rammassé pour attendre qu'une unité capable de "
+"l'utiliser soit recrutée ou rappellée."
 
 #: To_Lands_Unknown/macros/macros.cfg:438
+#, fuzzy
 msgid "Should the unit pick up the carpet?"
-msgstr ""
+msgstr "Cette unité doit-elle prendre le tapis?"
 
 #. [object]
 #: To_Lands_Unknown/macros/macros.cfg:446
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:180
+#, fuzzy
 msgid "Golden Carpet"
-msgstr ""
+msgstr "Tapis Doré"
 
 #: To_Lands_Unknown/macros/macros.cfg:451
+#, fuzzy
 msgid ""
 "Woven of golden threads, inspired by Abyssal winds. Everyone who possesses "
 "this ancient vehicle gains amazing speed and agility.\n"
 "Speed increases by 50%\n"
 "Negates zones of control (grants the skirmisher ability)"
 msgstr ""
+"Tissé de fils d'or, enchanté par les vents abyssaux, Cet ancien véhicule "
+"donne à son possesseur merveilleuse vitesse et agilité.\n"
+"La vitesse augmente de 50%\n"
+"Annule les zones de contrôle (donne la capacité tirailleur)"
 
 #: To_Lands_Unknown/macros/macros.cfg:508
+#, fuzzy
 msgid "Should the unit pick up the cloak?"
-msgstr ""
+msgstr "Cette unité doit elle prendre la cape?"
 
 #. [object]
 #: To_Lands_Unknown/macros/macros.cfg:516
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:236
+#, fuzzy
 msgid "Desert Cloak"
-msgstr ""
+msgstr "Cape du Désert"
 
 #. [object]
 #: To_Lands_Unknown/macros/macros.cfg:521
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:241
+#, fuzzy
 msgid ""
 "Marked with mysterious symbols, this cloak was enchanted a long time ago, "
 "but it still grants its owner good protection against fire.\n"
 "Advances the unit\n"
 "Grants 50% fire resistance"
 msgstr ""
+"Cette cape aux symboles mystérieux fut enchantéeil y a longtemps, mais elle "
+"donne toujours une bonne protection contre le feu.\n"
+"L'unité gagne un niveau\n"
+"Donne 50% de résistance au feu"
 
 #: To_Lands_Unknown/macros/macros.cfg:579
+#, fuzzy
 msgid "Should the unit pick up the spear?"
-msgstr ""
+msgstr "Cette unité doit-elle prendre la lance?"
 
 #. [object]
 #: To_Lands_Unknown/macros/macros.cfg:587
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:363
+#, fuzzy
 msgid "Spear of Rhami"
-msgstr ""
+msgstr "Lance de Rhami"
 
 #: To_Lands_Unknown/macros/macros.cfg:592
+#, fuzzy
 msgid ""
 "This weapon, forged from the light of the Abyss, is a part of the equipment "
 "used by magical entities called Rhami'kai. The Ancestors stole one of those "
@@ -302,18 +371,26 @@ msgid ""
 "Advances the unit\n"
 "Increases the attack by 20%"
 msgstr ""
+"Cette arme, forgée par la lumière abyssale fait partie de l'équipement des "
+"entités magiques appelées Rhami'Kai. Les aïeux volèrent une de ces lances et "
+"l'améliorèrent par magie.\n"
+"L'unité gagne un niveau\n"
+"augmente l'attaque de 20%"
 
 #: To_Lands_Unknown/macros/macros.cfg:659
+#, fuzzy
 msgid "Should the unit pick up the collar?"
-msgstr ""
+msgstr "Cette unité doit-elle prendre le Collet?"
 
 #. [object]
 #: To_Lands_Unknown/macros/macros.cfg:667
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:409
+#, fuzzy
 msgid "Collar of Recall"
-msgstr ""
+msgstr "Collet de Rappel"
 
 #: To_Lands_Unknown/macros/macros.cfg:673
+#, fuzzy
 msgid ""
 "A legendary artifact, a masterpiece made by the Ancestors. In olden times a "
 "magical collar was made, which when placed upon a magical being, could "
@@ -322,29 +399,42 @@ msgid ""
 "After each recall the unit is getting stronger\n"
 "The unit can be recalled only 3 times. After that it dies for sure."
 msgstr ""
+"Un artéfact légendaire, le chef-d'oeuvre créé par les Aïeux. En des temps "
+"anciens,fut créé un collet magique qui mis sur une créature magique peut la "
+"rappeller après sa mort.\n"
+"L'unité est rappellée au coté du chef\n"
+"Après chaque rappel elle devient plus forte\n"
+"l'unité peut être rappellée 3 fois. Après quoi elle meurt pour de bon."
 
 #. [value]: id=collar
 #: To_Lands_Unknown/macros/macros.cfg:681
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:427
+#, fuzzy
 msgid "collar"
-msgstr ""
+msgstr "collet"
 
 #: To_Lands_Unknown/macros/macros.cfg:682
+#, fuzzy
 msgid ""
 "After death the unit is recalled back to leader. Activates only 3 times."
 msgstr ""
+"Après la mort, cette unité est rappellée à coté du chef. Seulement trois "
+"utilisation."
 
 #: To_Lands_Unknown/macros/macros.cfg:740
+#, fuzzy
 msgid "Should the unit pick up the amulet?"
-msgstr ""
+msgstr "Cette unité doit-elle prendre l'amulette?"
 
 #. [object]
 #: To_Lands_Unknown/macros/macros.cfg:748
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:447
+#, fuzzy
 msgid "Amulet of Metamorph"
-msgstr ""
+msgstr "Amulette de Métamorphose"
 
 #: To_Lands_Unknown/macros/macros.cfg:753
+#, fuzzy
 msgid ""
 "The Ancestors were fascinated with elementals - entities made of pure "
 "energy. They also dreamed about creating a creature from a mix of all four "
@@ -354,16 +444,23 @@ msgid ""
 "The elemental unit can turn into other elemental\n"
 "(use right-click on the unit to activate)"
 msgstr ""
+"Nos aïeux furent toujours fascinés par les élémentaux -ces êtres faits de "
+"pure énergie. Ils révèrent de créer une créature mélant les quatres "
+"éléments. Malhereusement ils échouèrent. Au final, une unique amulette fut "
+"créée, capable de tranformer un élément en un autre. Cette relique et la "
+"plus puissante laissée par nos aïeux"
 
 #. [scenario]: id=01_Al_Kamija
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:6
+#, fuzzy
 msgid "Al-Kamija"
-msgstr ""
+msgstr "Al-kamija"
 
 #. [objective]: condition=win
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:20
+#, fuzzy
 msgid "Defend Al-Kamija"
-msgstr ""
+msgstr "Défendre Al-Kamija"
 
 #. [objective]: condition=lose
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:486
@@ -394,8 +491,9 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:439
 #: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:967
 #: To_Lands_Unknown/scenarios/08_BridgeofLight.cfg:201
+#, fuzzy
 msgid "Death of Mehir"
-msgstr ""
+msgstr "Mort de Mehir"
 
 #. [objective]: condition=lose
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:427
@@ -406,8 +504,9 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:242
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:104
 #: To_Lands_Unknown/scenarios/08_BridgeofLight.cfg:209
+#, fuzzy
 msgid "End of turns"
-msgstr ""
+msgstr "Fin des tours"
 
 #. [unit_type]: id=I8 fake_mehir_throw
 #. [side]: type=I8 Ak_Mehir_Leader, id=Mehir
@@ -466,40 +565,41 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/08_BridgeofLight.cfg:19
 #: To_Lands_Unknown/scenarios/08_BridgeofLight.cfg:23
 msgid "Mehir"
-msgstr ""
+msgstr "Mehir"
 
 #. [unit]: id=Mufaz, type=I8 Ak_Summoner
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:54
 msgid "Mufaz"
-msgstr ""
+msgstr "Mufaz"
 
 #. [unit]: id=Alib, type=I8 Ak_Summoner
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:64
 msgid "Alib"
-msgstr ""
+msgstr "Alib"
 
 #. [unit]: id=Safay, type=I8 Ak_Summoner
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:74
 msgid "Safay"
-msgstr ""
+msgstr "Safay"
 
 #. [unit]: id=Afez, type=I8 Ak_Summoner
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:84
 msgid "Afez"
-msgstr ""
+msgstr "Afez"
 
 #. [unit]: id=Kalib, type=I8 Ak_Summoner
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:94
 msgid "Kalib"
-msgstr ""
+msgstr "Kalib"
 
 #. [side]: type=I8 enlightened_master_of_air, id=Aerius
 #. [side]: type=I8_DB_Shaman, id=Rhaxiz
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:45
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:108
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:160
+#, fuzzy
 msgid "Enemy"
-msgstr ""
+msgstr "Enemi"
 
 #. [event]: id=Aerius, id=Guru side 3}
 #. [side]: type=I8 enlightened_master_of_air, id=Aerius
@@ -509,139 +609,178 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:40
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:113
 msgid "Aerius"
-msgstr ""
+msgstr "Aerius"
 
 #. [side]: type=I8 Ak_SummonerIII, id=Jaffar
 #. [side]
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:292
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:69
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:133
+#, fuzzy
 msgid "Army of Sud-Affar"
-msgstr ""
+msgstr "Armée de Sud-Affar"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:200
+#, fuzzy
 msgid ""
 "A job. Why have I decided to be a city guard?! And who the hell decided that "
 "the palace-city needs defending? We're in the middle of the desert, there "
 "are no threats for miles, and the only thing I have to pass the time here is "
 "to command these fools."
 msgstr ""
+"Quel travail. Pourquoi ai-je décidé de devenir un garde ?! Et qui diable a "
+"décidé que cette cité-palais a besoin d'être défendue? Nous sommes au milieu "
+"du désert, sans dangers sur des miles, et la seule chose à laquelle je passe "
+"mon temps est de commander ces fous."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:204
+#, fuzzy
 msgid ""
 "Anyway, I have to wrest them away from the inns, every single evening, "
 "because they aren't decent enough to do their duty."
 msgstr ""
+"En plus, je dois les arracher tout les soirs à leurs tavernes car ils ne "
+"sont pas assez honnètes pour faire leur devoir."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:208
+#, fuzzy
 msgid "And to think I wanted to command these Summoners..."
-msgstr ""
+msgstr "Quand je pense que j'ai voulu commander ces invocateurs..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:212
+#, fuzzy
 msgid ""
 "Hopefully, being the commander, I can assign myself to patrol the most "
 "beautiful places, like the highest tiers of the city. What a pleasant wind..."
 msgstr ""
+"Heureusement, étant leur commandant, je peux décider moi même de patrouiller "
+"dans les androits les plus jolis, comme les plus hautes parties de la cité. "
+"Quel vent ageéable..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:241
 #: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:748
+#, fuzzy
 msgid "Who... who are you?"
-msgstr ""
+msgstr "Qui... Qui êtes vous?"
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:245
+#, fuzzy
 msgid "(series of unknown words)"
-msgstr ""
+msgstr "(Suite de mots inconnus)"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:314
+#, fuzzy
 msgid "Something tells me this is an invasion. Prepare yourselves! Guards!"
-msgstr ""
+msgstr "Quelque chose me dit que c'est une invasion. préparez vous! Gardes!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:318
 msgid "Safay!"
-msgstr ""
+msgstr "Safay!"
 
 #. [message]: speaker=Safay
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:322
+#, fuzzy
 msgid "Yes, sir?"
-msgstr ""
+msgstr "Oui, chef?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:326
+#, fuzzy
 msgid "Take the carpet and get us some reinforcements!"
-msgstr ""
+msgstr "Prend le tapis et va chercher des renforts!"
 
 #. [message]: speaker=Safay
 #. [message]: id=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:330
 #: To_Lands_Unknown/scenarios/10_Message.cfg:304
+#, fuzzy
 msgid "Yes, sir!"
-msgstr ""
+msgstr "Oui, Chef!"
 
 #. [message]: speaker=backup1
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:390
+#, fuzzy
 msgid "Middle Tier Squad reporting for duty!"
-msgstr ""
+msgstr "Equipe du niveau intermédiaire au rapport!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:394
+#, fuzzy
 msgid "At last! At them!"
-msgstr ""
+msgstr "Enfin! Sur eux!"
 
 #. [message]: speaker=backup2
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:438
+#, fuzzy
 msgid ""
 "Middle Tier, East Side Squad  reporting for duty! We took carpets and flew "
 "as fast as we could."
 msgstr ""
+"Niveau intermédiaire, équipe Est au rapport! Nous avons pris les tapis est "
+"sommes venus aussi vite que possible."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:442
+#, fuzzy
 msgid "Why are you telling me such details?! Move it, solider!"
 msgstr ""
+"Pourquoi me donner des détails aussi insignifiants? Bougez-vous, soldats!"
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:457
+#, fuzzy
 msgid "(series of unknown curses)"
-msgstr ""
+msgstr "(série de malédictions inconnues)"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:470
+#, fuzzy
 msgid ""
 "It looks like these strange blue constructs have broken down. Get this "
 "flying human!"
 msgstr ""
+"Il semble que les constructions bleues soient détruites. Attrapez l'homme "
+"volant."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:481
+#, fuzzy
 msgid "Wow, he's fast. This is the end. You won't get inside. Take him!"
 msgstr ""
+"Waow, il est rapide. C'est la fin. Tu n'iras pas à l'intérieur. Prenez-le"
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:492
 msgid "...aquilo...flamen...notos..."
-msgstr ""
+msgstr "...aquilo...flamen...notos..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:504
+#, fuzzy
 msgid ""
 "How... he... What was that? This is impossible. An indestructible seal "
 "protects this gate! "
 msgstr ""
+"Comment... Il... Qu'est-ce que? c'est impossible. Un sceau indestructible "
+"protège cette porte."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:536
+#, fuzzy
 msgid ""
 "What? These are avatars of air! Who is that man, that even wind obeys his "
 "orders?!"
 msgstr ""
+"Quoi? ce sont des élémentaux d'air! Qui est cet homme auquel même les vents "
+"obéissent?!"
 
 #. [unit_type]: id=I8 Ak_Elder, race=akhuman
 #. [unit]: id=Elder, type=I8 Ak_Elder
@@ -655,249 +794,330 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/10_Message.cfg:82
 #: To_Lands_Unknown/scenarios/10_Message.cfg:91
 #: To_Lands_Unknown/scenarios/10_Message.cfg:100
+#, fuzzy
 msgid "Elder"
-msgstr ""
+msgstr "Ancien"
 
 #. [unit]: type=I8 Ak_Masterofbalance, id=Samir
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:106
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:564
+#, fuzzy
 msgid "Samir"
-msgstr ""
+msgstr "Samir"
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:592
+#, fuzzy
 msgid ""
 "Mehir! At any moment the army of Sud-Affar will come. Don't wait for us, "
 "pursue him! He mustn't leave the palace!"
 msgstr ""
+"Mehir! L'armée de Sud-Affar arrivera d'un instant à l'autre. Ne nous attend "
+"pas, pousuis-le! Il ne doit pas sortir du palais!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:596
+#, fuzzy
 msgid "Yes, sir! Follow me!"
-msgstr ""
+msgstr "Oui, chef! Suivez moi!"
 
 #. [objective]: condition=win
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:606
+#, fuzzy
 msgid "Enter the Central Palace"
-msgstr ""
+msgstr "Entrée du Palais Central"
 
 #. [objective]: condition=lose
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:614
+#, fuzzy
 msgid "Death of Elder"
-msgstr ""
+msgstr "Mort d'un Ancien"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:633
+#, fuzzy
 msgid "...open Sezam..."
-msgstr ""
+msgstr "...Sésame ouvre-toi..."
 
 #. [message]: speaker=unit
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:669
+#, fuzzy
 msgid "...ow... my back!"
-msgstr ""
+msgstr "oh! mon dos!"
 
 #. [scenario]: id=02_Abyss
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:6
+#, fuzzy
 msgid "Abyss"
-msgstr ""
+msgstr "Abysses"
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:181
+#, fuzzy
 msgid "We're too late!"
-msgstr ""
+msgstr "Nous sommes arrivés trop tard!"
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:186
+#, fuzzy
 msgid "So this is your biggest secret..."
-msgstr ""
+msgstr "Alors c'est votre plus grand secret..."
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:190
+#, fuzzy
 msgid ""
 "An infinite passage to the Abyss, a world of unlimited energy, where time "
 "and space have no meaning..."
 msgstr ""
+"Un passage infini vers les abysses, un monde d'énergie sans limite où temps "
+"et espace ne signifient plus rien..."
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:194
+#, fuzzy
 msgid ""
 "How could you know that? You're not one of us, although you speak our "
 "language."
 msgstr ""
+"Comment pouvez-vous le savoir? vous n'êtes pas des nôtres, même si vous "
+"parlez notre langue."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:198
+#, fuzzy
 msgid "My lord! He doesn't move his lips!"
-msgstr ""
+msgstr "Seigneur! Il ne bouge pas ses jambes!"
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:202
+#, fuzzy
 msgid ""
 "Let me guess: this is the lamp where Nomolas rests - the first jinn, creator "
 "of your palace-city, isn't it?"
 msgstr ""
+"laissez-moi deviner : c'est la lampe où Nomolas -le premier jinn, créateur "
+"de votre cité-palais dort, n'est-ce pas?"
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:206
+#, fuzzy
 msgid "Who are you?!"
-msgstr ""
+msgstr "Qui êtes vous?"
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:210
+#, fuzzy
 msgid "I venture forth to observe things more closely."
-msgstr ""
+msgstr "Je viens pour voir les choses de plus près."
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:214
+#, fuzzy
 msgid "Don't touch it!"
-msgstr ""
+msgstr "Ne la touchez pas!"
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:222
+#, fuzzy
 msgid ""
 "What amazing workmanship. I don't understand how you were able to entrap "
 "such a powerful entity in a tiny container as this one."
 msgstr ""
+"Quel merveilleux travail. Je ne comprend pas comment vous avez pû enfermer "
+"une si puissant antité dans quelque chose d'aussi petit."
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:226
+#, fuzzy
 msgid ""
 "I know a few people that would like to see this lamp... I'll borrow it. "
 msgstr ""
+"Je connais certaines personnes qui aimeraient voir cette lampe... Je vous "
+"l'emprunte."
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:247
+#, fuzzy
 msgid ""
 "This is Nomolas - the first jinn, the one who does not know the limits of "
 "human imagination."
 msgstr ""
+"C'est Nomolas - le premier jinn, celui qui ne connait pas les limites de "
+"l'imagination humaine."
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:251
+#, fuzzy
 msgid ""
 "Since we have an established passage between Abyss and our world, there is "
 "no need to keep him in the lamp. Now it is only a relic from times long-gone."
 msgstr ""
+"Depuis que nous avons établi un passage entre les Abysses et notre monde, "
+"nous n'avons plus vraiment besoin de le garder dans la lampe. Ce n'est plus "
+"maintenant qu'une relique d'un temps depuis longtemps passé;"
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:258
+#, fuzzy
 msgid ""
 "Thank you for this explanation, old man. I have gathered all necessary "
 "information. It's time to  return.."
 msgstr ""
+"Merci de cette explication, viel homme. J'ai récupéré toutes les "
+"informations nécéssaires. c'est l'heure de rentrer."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:267
+#, fuzzy
 msgid "So it was an illusion! He wasn't here all the time."
-msgstr ""
+msgstr "Alors c'était une illusion! Il n'a jamais été là."
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:271
+#, fuzzy
 msgid ""
 "Luckily, he's gone. Mehir, you have been patrolling this area since dawn. "
 "Tell me what really happened here."
 msgstr ""
+"Par chance, elle s'est dissipée. Mehir, tu pattrouille ici depuis l'aube. "
+"Dis-moi ce qui s'est vraiment passé ici."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:275
+#, fuzzy
 msgid ""
 "I was here as always when this strange man arrived from north-west. He "
 "didn't have a carpet, yet his feet never touched the ground. I have never "
 "seen something like this."
 msgstr ""
+"J'étais ici comme toujours lorsqu'il arriva du nord-ouest. Il n'avait pas de "
+"tapis, mais ses pieds ne touchaient pas le sol. je n'avais jamais rien vu de "
+"semblable."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:279
+#, fuzzy
 msgid ""
 "As soon as he stopped, mysterious blue balls appeared and surrounded him. "
 "Then big stone statues and small awful creatures with spears went out "
 "through those blue... portals, I assume. I didn't see any magical circles, "
 "so I have no idea how could he summon anything, but he did."
 msgstr ""
+"Dés qu'il s'arrèta, Des mystérieuses boules bleues apparurent et "
+"l'entourèrent. ensuite des grosses statues et des petites créatures "
+"exécrables vinrent de ces ... portails, je suppose. Je n'ai pas vu de cercle "
+"magique, donc je n'ai pas la moindre idée de comment il pu les invoquer, "
+"mais il le fit."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:283
+#, fuzzy
 msgid ""
 "Some time later, those blue gates disappeared and the flying man turned "
 "towards the central palace. Even the indestructible seal didn't stop him. He "
 "just turned into... wind and slipped through a slit in the gates. Then you "
 "appeared."
 msgstr ""
+"Quelque temps plus tard, les portes bleues disparurent et l'homme volant se "
+"rendit à la porte du palais central. Même le sceau indestructible ne le "
+"stoppa pas. Il se changea juste en vent et passa à travers une fente dans la "
+"porte. Après çà tu apparu."
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:287
+#, fuzzy
 msgid ""
 "Hmm.. this is worrying. I'm certain this man isn't one of our citizens. I "
 "must call a meeting of the Highest Council as soon as possible. In the "
 "meantime I order you to double the guards."
 msgstr ""
+"Hmm.. C'est gènant. Je suis certains que ce n'est pas un de nos citoyens. Je "
+"dois réclamer une séance du plus Haut Conseil aussi vite que possible. Je "
+"vous ordonne de doubler la garde pendant ce temps."
 
 #. [unit]: id=Sharif, type=I8 Ak_SummonerIII
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:339
 msgid "Sharif"
-msgstr ""
+msgstr "Sharif"
 
 #. [message]: speaker=Sharif
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:349
+#, fuzzy
 msgid "Have you stopped the invaders by yourselves?"
-msgstr ""
+msgstr "Avez vous arrètez les envahisseurs tout seuls?"
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:353
+#, fuzzy
 msgid ""
 "Oh, welcome, honorable Sharif. You missed the finale. We managed without "
 "your help, thanks to the commander of our city guard."
 msgstr ""
+"Oh, Bonjour, honorable Sharif. Vous avez manqué le final. Nous nous sommes "
+"débroullés savotre aide, grâce au commendeur de la garde."
 
 #. [message]: speaker=Sharif
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:357
+#, fuzzy
 msgid "Is it true? Have you stopped them, young man?"
-msgstr ""
+msgstr "Est-ce vrai? Les avez-vous arrètés, jeune homme?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:361
+#, fuzzy
 msgid "It is my duty."
-msgstr ""
+msgstr "C'est mon devoir."
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:365
+#, fuzzy
 msgid ""
 "Someone like him shouldn't be neglected. Maybe he should start commanding in "
 "your army? What do you think, Sharif?"
 msgstr ""
+"Quelqu'un comme lui ne doit pas être négligé. Peut-être pourrait-il "
+"commencer à commander dansl'armée? Qu'en pensez-vous, Sharif?"
 
 #. [message]: speaker=Sharif
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:369
+#, fuzzy
 msgid "Hmmm, that's a good idea! Just tell me your name, young man."
-msgstr ""
+msgstr "Hmm, c'est une bonne idée! Dit-moi juste ton nom, jeune homme."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:373
+#, fuzzy
 msgid "I... I am Mehir."
-msgstr ""
+msgstr "Je... Je suis Mehir."
 
 #. [message]: speaker=Sharif
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:377
+#, fuzzy
 msgid "Excellent, I appoint you as my assistant."
-msgstr ""
+msgstr "Excellent, je te nomme mon assistant."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:381
+#, fuzzy
 msgid "Hurray!"
-msgstr ""
+msgstr "hourra!"
 
 #. [scenario]: id=03_EastofSudAffar
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:6
+#, fuzzy
 msgid "East of Sud-Affar"
-msgstr ""
+msgstr "Est de Sud-affar"
 
 #. [part]
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:18
+#, fuzzy
 msgid "We are Summoners, the only people that live in the Great Desert."
-msgstr ""
+msgstr "Nous sommes les invocateurs, seul peuple habitant le Grand Désert."
 
 #. [part]
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:24
+#, fuzzy
 msgid ""
 "Among a miriad of dunes, in the center of our Holy Land, an unreal palace-"
 "city lies - our capital Al-Kamija.\n"
@@ -907,9 +1127,17 @@ msgid ""
 "\n"
 "How is this possible?"
 msgstr ""
+"Au milieu des dunes, au centre de notre terre sacrée, réside une irréelle "
+"cité-palais -notre capitale Al-Kamija.\n"
+"C'est un lieu étrange. Il n'est pas endommagé par le temps ou le sable. Le "
+"soleil ne brûle pas les murs, car ils sont toujours froids. On ne manque de "
+"rien car on y trouve de tout.\n"
+"\n"
+"Comment est-ce posssible?"
 
 #. [part]
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:29
+#, fuzzy
 msgid ""
 "A long time ago, when our ancestors lived on the outskirts of the desert, "
 "they made an extremely powerful discovery - Magic. Hidden in the form of "
@@ -919,9 +1147,17 @@ msgid ""
 "the Abyss. We can summon this power to our world - and that's the reason we "
 "are called Summoners."
 msgstr ""
+"Il y a longtemps, Quand nos aïeux vivaient dans les marges du désert, ils "
+"firent une découverte capitale - la magie. Cachée sous la forme de formules "
+"et de symboles, la magie controllait notre destin.\n"
+"   Les Aïeux découvrirent les Abysses - autre monde empli d'énergie, où "
+"temps et espace ne signifient rien. Toute notre magie provient des Abysses. "
+"Nous pouvons invoquer son pouvoir en se monde - c'est pourquoi on nous "
+"appelle les invocateurs."
 
 #. [part]
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:36
+#, fuzzy
 msgid ""
 "At the beginning, the Ancestors believed that the Abyss was  a place of "
 "primitive chaos - until they summoned the first magical being, a true "
@@ -931,9 +1167,17 @@ msgid ""
 "The ancestors managed to communicate with Nomolas, who turned out to be "
 "obedient like all summoned magical entities."
 msgstr ""
+" Au début, nos Aïeux crurent que les Abysses était un composées de chaos "
+"primitif - jusqu'à ce qu'ils invoquent la première créature magique, un vrai "
+"habitant de l'autre monde. C'était Nomolas, le premier jinn.\n"
+"Non soumis aux limites de l'imagination, il est l'être le plus puissant "
+"connu à ce jour. Théoriquement, Nomolas peut dètruire même un Dieu.\n"
+"Les aïeux parvinrent à communiquer avec Nomolas qui, comme toute les entités "
+"magiques invoquées, se révéla être obéissant."
 
 #. [part]
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:41
+#, fuzzy
 msgid ""
 "There was no wish that Nomolas couldn't fulfil. To measure his potential the "
 "Ancestors wished for the most beautiful city in the world, to be located in "
@@ -946,9 +1190,20 @@ msgid ""
 "powerful as he, although their power is still impressive and is completely "
 "sufficient for our needs."
 msgstr ""
+"Il n'y a pas de veux que Nomolas ne puisse exaucer. Pour mesurer son "
+"potentiel, les Aïeux demandèrent la plus belle cité du monde, au centre du "
+"désert, qui deviendrait le nouveau foyer, leur capitale. En quelque "
+"instants, Nomolas tira Al-Kamija du néant.\n"
+"\n"
+"Depuis lors, quelques siècles ont passés. Nomolas demeurait dans le palais "
+"central, attendant un autre appel. Nous essayons de ne l'utiliser que "
+"lorsque l'on ne peut faire autrement. Les autres entités invoquées après lui "
+"n'attinrent jamais sa puissance, cependant leur pouvoir ets toujours "
+"impressionant et compètement suffisant pour nos besoins."
 
 #. [part]
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:47
+#, fuzzy
 msgid ""
 "Living in Al-Kamija, we have learned quite a lot about Abyss, but we haven't "
 "been able to enter that world. Maybe because no-one in that dimension can "
@@ -962,9 +1217,22 @@ msgid ""
 "It should be stressed that we believe we will find in the Abyss the ultimate "
 "sense of our life and decide to stay there forever."
 msgstr ""
+"Durant notre séjour à Al-Kamija, nous aprîmes beaucoup sur les Abysses, mais "
+"nous n'arrivâmes pas a y pénétrer. Peut-être car personne dans cette "
+"dimension ne peut nous invoquer... Cependant, ces dernières années, nous "
+"arrivâmes à créer un cercle magique spécial capable de nous y emmener. Nos "
+"tests furent un succés, mais nous ne pouvons actuellement pas réinvoquer les "
+"objets que nous avons envoyés dans l'autre monde. Du coup, même si çà semble "
+"fou,  nous décidâmes d'envoyer tout notre pays dans les Abysses, espérant "
+"trouver une solution de là-bas. Mais même si nous la trouvons, nous ne "
+"l'utiliserons peut-être pas....\n"
+"        \n"
+"Il convient de dire que nous croyions trouver le sens ultime de notre vie et "
+"décider d'y rester à jamais."
 
 #. [part]
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:50
+#, fuzzy
 msgid ""
 "We designed a giant circle, one that will include most of our land. The "
 "circle is 2000 kms in diameter, so we built three cities, each separated "
@@ -972,9 +1240,15 @@ msgid ""
 "easier. The leaders of Mag-Magar, Tar-Tabar and Sud-Affar will supervise the "
 "works by their assistants."
 msgstr ""
+"Nous conçûmes un cercle géant qui inclut la majorité du pays. Ce cercle aura "
+"fait  deux milles kilomètres de diamètre, aussi nous construisîmes trois "
+"cités, chacune séparée des autres par exactement la même distance pour "
+"rendre la construction plus aisée. Les chefs de Mag-Magar, Tar-Tabar et Sud-"
+"Affar superviseront le travail de leurs assistants."
 
 #. [part]
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:55
+#, fuzzy
 msgid ""
 "  This campaign tells the story of Mehir, a young summoner, who will play a "
 "very important role in the history of the Era of Magic. But before it "
@@ -985,265 +1259,346 @@ msgid ""
 "east, to supervise the building of the circle, just outside the territory of "
 "Mag-Magar."
 msgstr ""
+"Cette campagne conte l'histoire de Mehir, un jeune invocateur, qui joue un "
+"rôle important dans l'histoire de l'ère de magie. Mais avant ça, Il devra "
+"prouver sa force en avançant dans la hiérarchie complexe des invocateurs.\n"
+"A ce niveau, Mehir est nommé assistant de Sharif, le chef de Sud-Affar, la "
+"cité sud de la Trinité. Il fut immédiatement envoyé à l'est, pour superviser "
+"la construction du cercle, juste au-delà du territoire de Mag-Magar."
 
 #. [unit]: id=Bakha, type=I8 Ak_HeavyCamelRider
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:134
 msgid "Bakha"
-msgstr ""
+msgstr "Bakha"
 
 #. [side]: type=I8_DB_MysticalToadRecruit, id=Rhaxiz
 #. [side]: type=I8_DB_Shaman, id=Rhaxiz
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:59
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:165
 msgid "Rhaxiz"
-msgstr ""
+msgstr "Rhaxiz"
 
 #. [message]: speaker=Bakha
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:200
+#, fuzzy
 msgid ""
 "We advance in a good pace. If it we don't slow down, we will be in the Abyss "
 "sooner than it was planned."
 msgstr ""
+"Nous avançons à une bonne vitesse. Si nous ne ralentissons pas, nous serons "
+"dans les Abysses plus vite que prévu."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:204
+#, fuzzy
 msgid ""
 "Indeed. The workers from Sud-Affar are very diligent, but this is also "
 "thanks to me, the supervisor. And now get back to work! What are you waiting "
 "for?"
 msgstr ""
+"Certainement. Les travailleurs de Sud-Affar sont très diligents, mais c'est "
+"aussi grâce à moi, leur superviseur. Et maintenant Retournez au travail! "
+"qu'est ce que vous attendez?"
 
 #. [message]: speaker=Bakha
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:208
+#, fuzzy
 msgid "We have a problem, my lord."
-msgstr ""
+msgstr "Nous avons un problème, mon seigneur."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:212
+#, fuzzy
 msgid "What are you talking about?!"
-msgstr ""
+msgstr "De quoi parlez vous?"
 
 #. [message]: speaker=Bakha
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:216
+#, fuzzy
 msgid ""
 "There's a jungle, over there, just in front of the path of the Circle. We "
 "will have to move through it."
 msgstr ""
+"Il y a une jungle, par là-bas, juste sur le chemin du Cercle. Nous devrons "
+"la traverser."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:220
+#, fuzzy
 msgid ""
 "And that is the problem? We have fire elementals; they will burn the path in "
 "front of us."
 msgstr ""
+"Et? Nous avons des élémentaux de feu; Ils la brûleront autant que nécéssaire."
 
 #. [message]: speaker=Bakha
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:224
+#, fuzzy
 msgid ""
 "Maybe we should check if it is safe enough to work in there? It gives me the "
 "creeps."
 msgstr ""
+"Peut-être que nous devrions vérifier la sécurité de l'endroit? Il me donne "
+"la chair de poule."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:228
+#, fuzzy
 msgid "Quite right! Mobilize your people, we will be moving soon."
-msgstr ""
+msgstr "Plutôt juste! Mobillisez les hommes, nous bougerons bientôt."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:241
+#, fuzzy
 msgid "This area looks safe..."
-msgstr ""
+msgstr "Cette zone semble sûre..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:246
+#, fuzzy
 msgid "Wait! Did you hear that?"
-msgstr ""
+msgstr "Attendez! Avez-vous entendus ça?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:289
+#, fuzzy
 msgid "It looks like we're not alone. Prepare yourselves!"
-msgstr ""
+msgstr "On dirait que nous ne sommes pas seuls. Préparez-vous!"
 
 #. [message]: speaker=Bakha
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:304
+#, fuzzy
 msgid ""
 "They are... lizards... and that one is probably their leader. See all of "
 "those feathers. Maybe we should talk with them?"
 msgstr ""
+"Ce sont... des lézards... Et celui-ci doit être leur chef. Regardez toutes "
+"ces plumes. Peut-être devons nous leur parler?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:308
+#, fuzzy
 msgid "Ah, yes, well... Welcome, we come in peace."
-msgstr ""
+msgstr "Ah, oui, hé bien... Bienvenue, nous venons en paix."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:312
+#, fuzzy
 msgid "(whispers)...though everything will go up in smoke soon..."
-msgstr ""
+msgstr "(chuchote)...même si tout va brûler bientôt..."
 
 #. [message]: speaker=Bakha
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:316
+#, fuzzy
 msgid "My Lord!"
-msgstr ""
+msgstr "Mon Seigneur!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:320
+#, fuzzy
 msgid ""
 "Oops, sorry. What I was trying to... ah. So we come from the desert, "
 "precisely speaking from the city, of which the highest tower can be seen in "
 "the distance. Around that city we're building a giant circle..."
 msgstr ""
+"Oops, désolé. Qu'est-ce que je faisais...ah. Donc nous venons du désert, "
+"précisément de cette cité dont on peut voir la plus haute tour au loin. Nous "
+"construisons un cercle géant autour..."
 
 #. [message]: speaker=Bakha
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:324
+#, fuzzy
 msgid "Lord, they don't understand. Maybe we should show them?"
-msgstr ""
+msgstr "Seigneur, ils ne comprennent pas. Peut-être faut-il leur montrer?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:328
+#, fuzzy
 msgid ""
 "How should I show them the Abyss and fried lizards, I wonder? Okay, okay, "
 "I'll try. Maybe we will avoid trouble..."
 msgstr ""
+"Comment puis-je leur montrer les Abysses et eux frits, je me demande? "
+"D'accord, j'essaye. Peut-être que nous éviterons des problèmes"
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:335
+#, fuzzy
 msgid "A few quarters later..."
-msgstr ""
+msgstr "Un peu plus tard..."
 
 #. [message]: speaker=Bakha
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:339
+#, fuzzy
 msgid ""
 "I am afraid they still don't understand. Maybe we should show them a magical "
 "entity?"
 msgstr ""
+"Je crains qu'ils ne comprennent toujours pas. Peut être devrais-je leur "
+"montrer un être magique?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:343
+#, fuzzy
 msgid "The only scroll I have summons a Fire Elemental. Let's try."
-msgstr ""
+msgstr "Le seul parchemin que j'aie invoque un élémental de feu. Essayons."
 
 #. [message]: speaker=Rhaxiz
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:356
 msgid "Raa!! Xazi Xsi! Xsi! hissssss!"
-msgstr ""
+msgstr "Raa!! Xazi Xsi! Xsi! hissssss!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:381
+#, fuzzy
 msgid "We're surrounded! I have almost succeeded."
-msgstr ""
+msgstr "Ils nous entourent! j'ai presque réussi."
 
 #. [message]: speaker=Bakha
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:385
+#, fuzzy
 msgid ""
 "This is my fault. Allow me atone it. I will stop them, and you run to the "
 "camp!!!"
 msgstr ""
+"C'est de ma faute. Permettez moi de l'expier. Je vais les arréter pendant "
+"que vous courrez jusqu'au camp."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:389
+#, fuzzy
 msgid ""
 "Your bravery is amazing. Maybe I will manage to send you some reinforcements."
 msgstr ""
+"Votre courage est  stupéfiant. Peut-être que j'aariverais à vous envoyer des "
+"renforts."
 
 #. [message]: speaker=Bakha
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:393
+#, fuzzy
 msgid "Don't worry about us. You must protect the circle at all costs!"
 msgstr ""
+"Ne vous inquiétez pas pour nous. Vous devez protéger le cercle à tout prix!"
 
 #. [message]: speaker=Bakha
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:398
+#, fuzzy
 msgid "And, RUN!!!"
-msgstr ""
+msgstr "Allez, sauve qui peux!!!"
 
 #. [objective]: condition=win
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:428
+#, fuzzy
 msgid "RUN!!!"
-msgstr ""
+msgstr "Courrez!!!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:446
+#, fuzzy
 msgid "ALERT!!!"
-msgstr ""
+msgstr "ALERTE!!!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:500
+#, fuzzy
 msgid ""
 "Let someone inform Sud-Affar! We are under attack! We need reinforcements!"
 msgstr ""
+"Que quelqu'un prévienne Sud-Affar! Nous sommes attaqués! Il nous faut des "
+"renforts!"
 
 #. [objective]: condition=win
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:512
+#, fuzzy
 msgid "Defend the camp"
-msgstr ""
+msgstr "Défendez le camp"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:587
+#, fuzzy
 msgid "Holy Efreeti! What is THAT?!"
-msgstr ""
+msgstr "Saint-Efrit! Qu'est-ce que c'est?!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:605
+#, fuzzy
 msgid "Oh no, please! We can't survive such an attack by such a thing!"
-msgstr ""
+msgstr "Oh non, s'il vous plait! On ne peux survivre contre çà!"
 
 #. [message]: speaker=LizardMessenger
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:628
+#, fuzzy
 msgid ""
 "(that lizard says something, but it is too far away for Mehir to hear "
 "anything)"
 msgstr ""
+"(le lézard dit quelque chose, mais il est trop loin pour que Mehir entende)"
 
 #. [message]: speaker=LizardMessenger
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:660
 msgid "Rha! Xsisss, sefffissss!"
-msgstr ""
+msgstr "Rha! Xsisss, sefffissss!"
 
 #. [message]: speaker=lastbackup
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:676
 msgid "Seeetfuu! Txsiii hassith!"
-msgstr ""
+msgstr "Seeetfuu! Txsiii hassith!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:692
+#, fuzzy
 msgid "Huh? They withdrawing? We are safe!"
-msgstr ""
+msgstr "Hein? Ils se replient? Nous sommes sauvés!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:696
+#, fuzzy
 msgid ""
 "No, wait - we are still under attack! Continue defending - now we can stop "
 "them."
 msgstr ""
+"Non, attendez - nous somme toujours attaqués! Continuez à défendre - nous "
+"pouvons les vaincre désormais."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:411
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:724
+#, fuzzy
 msgid "That's the last of them."
-msgstr ""
+msgstr "C'était le dernier d'entre eux."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:728
+#, fuzzy
 msgid ""
 "It looks like the fire elementals make them furious. If I wouldn't have "
 "shown him, everything would have ended in a different way. Too many lives "
 "were lost."
 msgstr ""
+"Il semblerait que l'élémental de feu les aient rendus furieux. Si je ne leur "
+"avait pas montré, tout aurait été différent. Trop de vies furent perdues."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:732
+#, fuzzy
 msgid ""
 "The reinforcements from Sud-Affar will come soon. We must be on our guard. "
 "There is a large tropical forest in front of us full of dangerous creatures. "
 "We will need many troops."
 msgstr ""
+"Les renforts de Sud-Affar vont bientôt arriver. Nous devons rester sur nos "
+"gardes, la forêt tropicale devant nous est pleine de créatures dangereuses. "
+"nous allons avoir besoins de nombreux d'hommes."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:736
+#, fuzzy
 msgid ""
 "Send someone to the city for machetes and saws. We can forget about fire "
 "elementals for the time being."
 msgstr ""
+"j'Envois quelqu'un à la cité pour récupérer des machettes et des scies. On "
+"peut oublier les élémentaux de feu pour le moment."
 
 #. [message]: speaker=Rhaxiz
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:749
@@ -1257,129 +1612,166 @@ msgstr ""
 
 #. [part]
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:17
+#, fuzzy
 msgid ""
 "When Sharif heard about the attacks, he sent his deputy, Jaffar, with his "
 "best troops. On Mehir's request they brought the equipment needed for "
 "cutting down the trees and workers begun clearing the path for the circle..."
 msgstr ""
+"Quand sharif apprend cette attaque, il envoie son adjoint Jaffar avec ses "
+"meilleures troupes. A la demande de Mehir il apporte le matériel nécéssaire "
+"pour couper les arbres et les travailleurs commencent à dégager le chemin "
+"pour le cercle..."
 
 #. [side]: type=I8_DB_MysticalToadRecruit, id=Rhaxiz
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:55
+#, fuzzy
 msgid "Lizards"
-msgstr ""
+msgstr "Lézards"
 
 #. [side]: type=I8 Barbarian_GreatBarbarian, id=Broghur
 #. [side]: type=I8 Barbarian_AncientCyclop, id=BLeader, id=breaker)}
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:177
 #: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:71
+#, fuzzy
 msgid "Barbarians"
-msgstr ""
+msgstr "Barbares"
 
 #. [side]: type=I8 Barbarian_GreatBarbarian, id=Broghur
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:182
 msgid "Brogh'ur"
-msgstr ""
+msgstr "Brogh'ur"
 
 #. [unit]: id=Krog, type=I8 Barbarian_CyclopDestroyer
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:221
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:418
 msgid "Krog"
-msgstr ""
+msgstr "Krog"
 
 #. [side]: type=I8 Ak_SummonerIII, id=Jaffar
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:299
 msgid "Jaffar"
-msgstr ""
+msgstr "Jaffar"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:340
+#, fuzzy
 msgid "Strange..."
-msgstr ""
+msgstr "Etrange"
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:344
+#, fuzzy
 msgid ""
 "Indeed. Those beasts should've eaten us a long time ago. We are sitting "
 "three days in this jungle and there are no lizards nearby. I doubt the sense "
 "of this intervention."
 msgstr ""
+"Effectivement. Ces Bêtes auraient dû nous manger il y a longtemps. Nous "
+"sommes dans cette jungle depuis trois jours et il n'y a pas de lézards aux "
+"alentours. Je doute du sens de cette opération."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:348
+#, fuzzy
 msgid ""
 "Something must happened. They were completely furious. They couldn't have "
 "just run away..."
 msgstr ""
+"Quelque chose a dû se produire. ils étaient complètement furieux. Ils ne "
+"peuvent avoir juste fui."
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:352
+#, fuzzy
 msgid ""
 "Soon, we will reach the end of this gods-besotted jungle. If nothing attacks "
 "us, we will be able to connect the circle with Sud-Affar's portal in four "
 "months. We could've done the same in just a couple of months, if this stupid "
 "ban on Fire Elementals wasn't in force."
 msgstr ""
+"Bientôt, nous atteindrons la fin de cette maudite jungle. Si rien ne nous "
+"attaque, nous pourrons connecter le portail avec Sud-Affar dans quatre mois. "
+"Nous aurions pu le faire en deux sans cette stupide interdiction des "
+"élémentaux de feu."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:356
+#, fuzzy
 msgid ""
 "Please understand, my lord. If we will use Fire Elementals, those beasts may "
 "yet appear. We shouldn't tempt fate."
 msgstr ""
+"Je vous prie de comprendre, mon seigneur. Si nous utilisions des élémentaux "
+"de feu, ces bêtes pourraient apparaitre. Nous ne devrions pas tenter le "
+"diable."
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:360
+#, fuzzy
 msgid "If there are any. If not..."
-msgstr ""
+msgstr "S'il y en a. Si non..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:375
+#, fuzzy
 msgid "What was that?"
-msgstr ""
+msgstr "Qu'estce que c'était?"
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:379
+#, fuzzy
 msgid "It's a good question. It came from there!"
-msgstr ""
+msgstr "Bonne question. Cà vient de là-bas."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:390
+#, fuzzy
 msgid "Oh my..."
-msgstr ""
+msgstr "Oh mon..."
 
 #. [message]: speaker=Krog
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:400
+#, fuzzy
 msgid "KROG FEEL POWER! KROG WANT CRUSH, DESTROY, BREAK!!!"
-msgstr ""
+msgstr "KROG FORT! KROG VOULOIR DETRURE, CASSER, BRISER!"
 
 #. [message]: speaker=Rhaxiz
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:428
 msgid "Hiiiilafaiiii!"
-msgstr ""
+msgstr "Hiiiilafaiiii!"
 
 #. [message]: speaker=Broghur
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:432
+#, fuzzy
 msgid "Kill them!"
-msgstr ""
+msgstr "Tuez-les!"
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:437
+#, fuzzy
 msgid ""
 "Amazing. It's the first time I have seen something like this. What unique "
 "sorts of creatures live on this land..."
 msgstr ""
+"Impressionant. C'est la première fois que je vois quelque chose dans ce "
+"genre. quelles créatures uniques vivent ici..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:441
+#, fuzzy
 msgid "We must help those lizards!"
-msgstr ""
+msgstr "Nous devons aider ces lézards!"
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:445
+#, fuzzy
 msgid ""
 "Have you lost your mind?! This is not our war. Since they are busy with each "
 "other, the circle is safe."
 msgstr ""
+"Avez-vous perdu l'esprit?! Ce n'est pas notre guerre. Comme ils sont occupés "
+"à s'entretuer, le cercle est protégé."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:449
@@ -2158,12 +2550,17 @@ msgstr ""
 
 #. [object]
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:185
+#, fuzzy
 msgid ""
 "Woven of golden threads, inspired by Abyssal winds. One who possesses this "
 "ancient vehicle, gains amazing speed and agility.\n"
 "Speed increases by 50%\n"
 "Negates zones of control (grants the skirmisher ability)"
 msgstr ""
+"Tissé de fils d'or, enchanté par les vents abyssaux, Cet ancien véhicule "
+"donne à son possesseur merveilleuse vitesse et agilité.\n"
+"La vitesse augmente de 50%\n"
+"Annule les zones de contrôle (donne la capacité tirailleur)"
 
 #. [message]: speaker=unit
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:216
@@ -2270,6 +2667,7 @@ msgstr ""
 
 #. [object]
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:368
+#, fuzzy
 msgid ""
 "This weapon, forged from the light of Abyss, is a part of equipment used by "
 "magical entities called Rhami'kai. The Ancestors stole one of those spears "
@@ -2277,6 +2675,11 @@ msgid ""
 "Advances the unit\n"
 "Increases the attack by 20%"
 msgstr ""
+"Cette arme, forgée par la lumière abyssale fait partie de l'équipement des "
+"entités magiques appelées Rhami'Kai. Les aïeux volèrent une de ces lances et "
+"l'améliorèrent par magie.\n"
+"L'unité gagne un niveau\n"
+"augmente l'attaque de 20%"
 
 #. [scenario]: id=07_Kagatta
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:407
@@ -2290,6 +2693,7 @@ msgstr ""
 
 #. [object]
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:415
+#, fuzzy
 msgid ""
 "A legendary artifact, a masterpiece made by the Ancestors. In olden times a "
 "magical collar was made, which when placed upon a magical being, could "
@@ -2298,12 +2702,21 @@ msgid ""
 "After each recall the unit gets stronger\n"
 "The unit can be recalled only 3 times. After that it dies for sure."
 msgstr ""
+"Un artéfact légendaire, le chef-d'oeuvre créé par les Aïeux. En des temps "
+"anciens,fut créé un collet magique qui mis sur une créature magique peut la "
+"rappeller après sa mort.\n"
+"L'unité est rappellée au coté du chef\n"
+"Après chaque rappel elle devient plus forte\n"
+"l'unité peut être rappellée 3 fois. Après quoi elle meurt pour de bon."
 
 #. [value]: id=collar
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:428
+#, fuzzy
 msgid ""
 "After death the unit is recalled back to the leader. Activates only 3 times."
 msgstr ""
+"Après la mort, cette unité est rappellée à coté du chef. Seulement trois "
+"utilisation."
 
 #. [scenario]: id=07_Kagatta
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:445
@@ -2317,6 +2730,7 @@ msgstr ""
 
 #. [object]
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:452
+#, fuzzy
 msgid ""
 "The Ancestors were fascinated with elementals - entities made of pure "
 "energy. They also dreamed about creating a creature from a mix of all four "
@@ -2326,6 +2740,11 @@ msgid ""
 "The elemental unit can turn into another elemental\n"
 "(use right-click on the unit to activate)"
 msgstr ""
+"Nos aïeux furent toujours fascinés par les élémentaux -ces êtres faits de "
+"pure énergie. Ils révèrent de créer une créature mélant les quatres "
+"éléments. Malhereusement ils échouèrent. Au final, une unique amulette fut "
+"créée, capable de tranformer un élément en un autre. Cette relique et la "
+"plus puissante laissée par nos aïeux"
 
 #. [message]: race=akhuman
 #. [message]: type=I8 Ak_Rhami,I8 Ak_RhamiDatu,I8 Ak_RhamiKai,I8 Ak_HoRhami,I8 Ak_DharmaRhami
@@ -2692,8 +3111,9 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: To_Lands_Unknown/scenarios/10_Message.cfg:131
+#, fuzzy
 msgid "Death of 3 Council members"
-msgstr ""
+msgstr "Mort d'un Ancien"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/10_Message.cfg:146
@@ -2864,7 +3284,7 @@ msgstr ""
 #. [message]: speaker=Matriarch3
 #: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:261
 msgid "Tharis"
-msgstr ""
+msgstr "Tharis"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:266
@@ -3264,7 +3684,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/13_Great_Desert.cfg:71
 #: To_Lands_Unknown/scenarios/13_Great_Desert.cfg:75
 msgid "Reficul"
-msgstr ""
+msgstr "Reficul"
 
 #. [side]: type=I8 Kharos_SunPlatinumwarrior, id=Dedylos
 #. [side]
@@ -3277,7 +3697,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/19_SunDome.cfg:72
 #: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:313
 msgid "Kharos"
-msgstr ""
+msgstr "Kharos"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/13_Great_Desert.cfg:138
@@ -4161,7 +4581,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/16_TheCityofLight.cfg:64
 #: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:317
 msgid "Anthi"
-msgstr ""
+msgstr "Anthi"
 
 #. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, id=Kirios)}
 #. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, (id=Adviser
@@ -4270,7 +4690,7 @@ msgstr ""
 #. [message]: speaker=Dedylos
 #: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:520
 msgid "!"
-msgstr ""
+msgstr "!"
 
 #. [message]: speaker=Anthi
 #: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:524
@@ -4563,8 +4983,9 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:1231
+#, fuzzy
 msgid "Oh no! Rashti has lost her balance once again!"
-msgstr ""
+msgstr "Oh non! Rashti a encore une fois perdu son équilibre!"
 
 #. [scenario]: id=16_TheCityofLight
 #: To_Lands_Unknown/scenarios/16_TheCityofLight.cfg:5
@@ -5081,7 +5502,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/18_Enlightment.cfg:40
 #: To_Lands_Unknown/scenarios/20_Home.cfg:38
 msgid "Guru"
-msgstr ""
+msgstr "Guru"
 
 #. [side]
 #: To_Lands_Unknown/scenarios/18_Enlightment.cfg:59
@@ -6103,8 +6524,9 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Jaffar, race=akhuman
 #: To_Lands_Unknown/units/Jaffar.cfg:7
+#, fuzzy
 msgid "Sleeping Summoner"
-msgstr ""
+msgstr "Grand Invocateur"
 
 #. [advancement]: id=SWORD_DAMAGE
 #: To_Lands_Unknown/units/Mehir_guard.cfg:12
@@ -6200,3 +6622,27 @@ msgstr ""
 #: To_Lands_Unknown/units/wyverngreatlancershaman.cfg:4
 msgid "Shaman + Messenger"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Campaign Design"
+#~ msgstr "Concept de la Campagne"
+
+#, fuzzy
+#~ msgid "WML Coding"
+#~ msgstr "Code WML"
+
+#, fuzzy
+#~ msgid "Artwork & Levels Design"
+#~ msgstr "Illustrations & concepts de niveaux"
+
+#, fuzzy
+#~ msgid "Writing Tweaks"
+#~ msgstr "Amélioration de l'écriture"
+
+#, fuzzy
+#~ msgid "Proof-reading"
+#~ msgstr "Relecture"
+
+#, fuzzy
+#~ msgid "Gameplay Testing"
+#~ msgstr "Test de jeu"

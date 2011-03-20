@@ -8,17 +8,20 @@ Required keys:
 x,y: a sequence of points relative to the center of the reference hex in pixels through which the animation will travel
 hex_x, hex_y: a hex on the map for which all other coordinates will be relative to
 image: the image to display. It should have a 72 pixel transparent border surrounding it
-frames: the number of frames to display in the movement
 frame_length: the amount of time each frame will be visible
 
 Optional keys:
-linger: if yes, then leave the final frame visible
-transpose: if yes, then the interpolation methods marked function will calculate based on y-values rather than x-values
+frames (default: number of images specified in image): the number of frames to display in the movement, must be at least 2
+linger (default: no): if yes, then leave the final frame visible
+transpose (default: no): if yes, then the interpolation methods marked function will calculate based on y-values rather than x-values
 interpolation: (default: linear) The method used to travel between points. Allowed values are: linear, bspline, parabola
 Method Details:
+    Methods marked (function) require that the x values (y values if transpose is yes) be distinct and sorted (increasing or decreasing)
+        Currently this is not checked, provide points out of order at your own risk
     linear:
     bspline: requires that at least 4 points be specified
-    parabola (function): requires exactly 3 points be specified - the x-values must be sorted (increasing or decreasing)
+    parabola (function): requires exactly 3 points be specified
+    cubic_spline (function):
 
 Example:
 [animate_path]
@@ -32,7 +35,7 @@ Example:
 [/animate_path]
 
 Note for those who want more options:
-This file exposes a global table: interpolation_methods
+This file returns a table of interpolation methods
 You can add an initialization function to it to provide your own path function.
 The initialization function receives a list of x values, a list of y values and the total number of locations
 The number of x and y values are guaranteed to be the same
@@ -104,7 +107,7 @@ end
 
 -- Image Placement Functions
 
-local function place_image_offset(hex_x, hex_y, x, y, image)
+local function get_image_name_with_offset(hex_x, hex_y, x, y, image)
     -- since halo doesn't have a key to offset an image, use the CROP
     -- function built into the wesnoth image placement to fake it
     -- requires a 72 pixel border around the image to work properly
@@ -130,10 +133,7 @@ local function place_image_offset(hex_x, hex_y, x, y, image)
     else
         y = -y
     end
-    image = string.format("%s~CROP(%d,%d,%d,%d)",image,x,y,w,h)
-    items.place_halo(hex_x, hex_y, image)
-    -- return the image name so it can removed non-destructively
-    return image
+    return string.format("%s~CROP(%d,%d,%d,%d)",image,x,y,w,h)
 end
 
 local function calc_image_hex_offset(hex_x, hex_y, x, y)
@@ -175,13 +175,13 @@ local function load_list(list)
 end
 
 -- Interpolation Functions
-interpolation_methods = {}
+local interpolation_methods = {}
 
 function interpolation_methods.linear( x_locs, y_locs, num_locs )
     -- encapsulates the linear interpolation algorithm
     local function calc_linear_path_length()
         if num_locs == 1 then
-            return 0, 0
+            return {}, 0, 0
         end
 
         local total_length = 0
@@ -203,10 +203,10 @@ function interpolation_methods.linear( x_locs, y_locs, num_locs )
     end
 
     local function reached_point(point)
-        start_x = x_locs[point]
-        start_y = y_locs[point]
-        delta_x = x_locs[point+1] - start_x or 0
-        delta_y = y_locs[point+1] - start_y or 0
+        start_x = x_locs[point] or 0
+        start_y = y_locs[point] or 0
+        delta_x = (x_locs[point+1] or start_x) - start_x
+        delta_y = (y_locs[point+1] or start_y) - start_y
     end
 
     local function get_location(offset)
@@ -274,6 +274,7 @@ function interpolation_methods.parabola( x_locs, y_locs, num_locs )
          {x_locs[2]*x_locs[2], x_locs[2], 1}}
     b = {y_locs[0], y_locs[1], y_locs[2]} -- have to copy since input is 0-based
     b = solve_system(A, b)
+    A = nil
     if b == nil then
         helper.wml_error("[animate_path]: The provided points do not form a parabola")
     end
@@ -300,17 +301,91 @@ function interpolation_methods.parabola( x_locs, y_locs, num_locs )
     return get_parabola_path_length, reached_point, get_location
 end
 
+function interpolation_methods.cubic_spline( x_locs, y_locs, num_locs )
+    -- implements natural cubic spline interpolation
+    if num_locs <= 2 then
+        return interpolation_methods.linear( x_locs, y_locs, num_locs )
+    end
+
+    local M = {}
+    local mt = {__index = function () return 0 end}
+    local a = {}
+    local b = {}
+    local c = {}
+    local h = {}
+
+    for i = 1,num_locs-1 do
+        h[i] = x_locs[i] - x_locs[i-1]
+    end
+    for i = 1,num_locs-2 do
+        M[i] = {}
+        setmetatable(M[i], mt)
+        M[i][i-1] = h[i] / 6
+        M[i][i] = (h[i] + h[i+1]) / 3
+        M[i][i+1] = h[i+1] / 6
+        a[i] = (y_locs[i+1] - y_locs[i]) / h[i+1] - (y_locs[i] - y_locs[i-1]) / h[i]
+    end
+    -- TODO: write tridiagonal solver using the Thomas method to improve runtime
+    -- O(n) instead of O(n^2)
+    -- for now, use metatables to fill in all the 0s the Gaussian solver needs
+
+    a = solve_system(M, a)
+    M = nil
+    a[0] = 0
+    a[num_locs-1] = 0
+    for i = 1,num_locs-1 do
+        b[i] = y_locs[i-1] / h[i] - (a[i-1] * h[i]) / 6
+        c[i] = y_locs[i] / h[i] - (a[i] * h[i]) / 6
+    end
+    local index, delta_x
+
+    local function get_cubic_path_length()
+        -- since I don't want to calculate the arc length at this time
+        -- I currently just return the absolute value of the
+        -- x differences to provide a constant x-velocity
+        local total_length = 0
+        local lengths = {}
+        local num_lengths = 0
+        for i = 1,num_locs-1 do
+            lengths[i] = math.abs(x_locs[i]-x_locs[i-1])
+            total_length = total_length + lengths[i]
+            num_lengths = num_lengths + 1
+        end
+        return lengths, num_lengths, total_length
+    end
+
+    local function reached_point(point)
+        index = point+1
+        delta_x = x_locs[point+1] - x_locs[point] or 0
+    end
+
+    local function get_location(offset)
+        local x = (delta_x * offset) + x_locs[index-1]
+        local y = a[index-1] * (x_locs[index] - x)^3 / (6 * h[index]) +
+                  a[index] * (x - x_locs[index-1])^3 / (6 * h[index]) +
+                  b[index] * (x_locs[index] - x ) +
+                  c[index] * (x - x_locs[index-1])
+        return x, y
+    end
+
+    return get_cubic_path_length, reached_point, get_location
+end
+
 function wesnoth.wml_actions.animate_path(cfg)
-    local hex_x = cfg.hex_x or helper.wml_error("Missing required hex_x= attribute in [animate_path]")
-    local hex_y = cfg.hex_y or helper.wml_error("Missing required hex_y= attribute in [animate_path]")
-    local frames = cfg.frames or helper.wml_error("Missing required frames= attribute in [animate_path]")
+    if wesnoth.get_image_size == nil then
+        wesnoth.message("Animation skipped. To see the animation, upgrade to Battle for Wesnoth version 1.9.4 or later")
+        return
+    end
+    local hex_x = tonumber(cfg.hex_x) or helper.wml_error("Missing required hex_x= attribute in [animate_path]")
+    local hex_y = tonumber(cfg.hex_y) or helper.wml_error("Missing required hex_y= attribute in [animate_path]")
+    local temp = cfg.image or helper.wml_error("[animate_path] missing required image= attribute")
+    local images, num_images = load_list(temp)
+    local frames = tonumber(cfg.frames) or num_images
     if frames < 2 then
         helper.wml_error("[animate_path] requires frames be at least 2")
     end
-    local delay = cfg.frame_length or helper.wml_error("Missing required frame_length= attribute in [animate_path]")
+    local delay = tonumber(cfg.frame_length) or helper.wml_error("Missing required frame_length= attribute in [animate_path]")
     local linger = cfg.linger
-    local temp = cfg.image or helper.wml_error("[animate_path] missing required image= attribute")
-    local images, num_images = load_list(temp)
     temp = cfg.x or helper.wml_error("[animate_path] missing required x= attribute")
     local x_locs, num_locs = load_list(temp)
     temp = cfg.y or helper.wml_error("[animate_path] missing required y= attribute")
@@ -334,7 +409,7 @@ function wesnoth.wml_actions.animate_path(cfg)
     -- subtract 1 from frames to avoid fencepost problems
     frames = frames - 1
     local length_per_frame = total_length / frames
-    local x, y, target_hex_x, target_hex_y
+    local x, y, target_hex_x, target_hex_y, image_name
 
     reached_point(0)
     for i = 0, frames do
@@ -356,10 +431,14 @@ function wesnoth.wml_actions.animate_path(cfg)
             x, y = y, x
         end
         target_hex_x, target_hex_y, x, y = calc_image_hex_offset(hex_x,hex_y,x,y)
-        local image_name = place_image_offset( target_hex_x, target_hex_y, x, y, images[i%num_images])
+        image_name = get_image_name_with_offset( target_hex_x, target_hex_y, x, y, images[i%num_images])
+        wesnoth.add_tile_overlay(target_hex_x, target_hex_y, {x = target_hex_x, y = target_hex_y, halo = image_name})
         wesnoth.delay(delay)
-        if i < frames or not linger then
-            items.remove(target_hex_x, target_hex_y, image_name)
-        end
+        wesnoth.remove_tile_overlay(target_hex_x, target_hex_y, image_name)
+    end
+    if linger then
+        items.place_halo(target_hex_x, target_hex_y, image_name)
     end
 end
+
+return interpolation_methods

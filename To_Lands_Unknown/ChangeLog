@@ -1,6 +1,20 @@
 To Lands Unknown - ChangeLog
 ----------------------------
 
+Version 1.5.3
+
+- Language and Translations
+    * Converted all straight quotation marks and apostrophes to proper form
+    * Converted all fake dashes to proper form
+
+- Scenarios
+    * Added a warning about rain damage in scenario 14
+
+- Other
+    * Added missing image: portal-end.png
+    * Code improvements preventing Neutral Summoners from summoning jinns too early in-game
+    * Fixed broken UTF-8 in various files
+
 Version 1.5.2
 
 - Scenarios

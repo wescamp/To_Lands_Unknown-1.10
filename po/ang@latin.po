@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-04-18 06:05-0400\n"
+"POT-Creation-Date: 2011-04-19 19:08+0200\n"
 "PO-Revision-Date: 2011-02-27 17:20+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -180,16 +180,16 @@ msgstr ""
 msgid "Should the unit pick up the carpet?"
 msgstr ""
 
-#. [scenario]: id=07_Ka-gatta
 #. [option]: speaker=narrator
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:420
+#. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/macros/items.cfg:157
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:420
 msgid "carpet^Take it"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:422
 #: To_Lands_Unknown/macros/items.cfg:161
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:422
 msgid "Golden Carpet"
 msgstr ""
 
@@ -202,10 +202,10 @@ msgid ""
 "Negates zones of control (grants the skirmisher ability)"
 msgstr ""
 
-#. [scenario]: id=07_Ka-gatta
 #. [option]: speaker=narrator
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:420
+#. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/macros/items.cfg:190
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:420
 msgid "carpet^Leave it"
 msgstr ""
 
@@ -214,22 +214,22 @@ msgstr ""
 msgid "Should the unit pick up the cloak?"
 msgstr ""
 
-#. [scenario]: id=07_Ka-gatta
 #. [option]: speaker=narrator
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:476
+#. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/macros/items.cfg:227
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:476
 msgid "cloak^Take it"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:478
 #: To_Lands_Unknown/macros/items.cfg:231
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:478
 msgid "Desert Cloak"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:483
 #: To_Lands_Unknown/macros/items.cfg:236
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:483
 msgid ""
 "Marked with mysterious symbols, this cloak was enchanted a long time ago, "
 "but it still grants its owner good protection against fire.\n"
@@ -247,16 +247,16 @@ msgstr ""
 msgid "Should the unit pick up the spear?"
 msgstr ""
 
-#. [scenario]: id=07_Ka-gatta
 #. [option]: speaker=narrator
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:519
+#. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/macros/items.cfg:298
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:519
 msgid "spear^Take it"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:521
 #: To_Lands_Unknown/macros/items.cfg:302
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:521
 msgid "Spear of Rhami"
 msgstr ""
 
@@ -270,10 +270,10 @@ msgid ""
 "Increases the attack by 20%"
 msgstr ""
 
-#. [scenario]: id=07_Ka-gatta
 #. [option]: speaker=narrator
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:519
+#. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/macros/items.cfg:341
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:519
 msgid "spear^Leave it"
 msgstr ""
 
@@ -282,16 +282,16 @@ msgstr ""
 msgid "Should the unit pick up the collar?"
 msgstr ""
 
-#. [scenario]: id=07_Ka-gatta
 #. [option]: speaker=narrator
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:565
+#. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/macros/items.cfg:378
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:565
 msgid "collar^Take it"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:567
 #: To_Lands_Unknown/macros/items.cfg:382
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:567
 msgid "Collar of Recall"
 msgstr ""
 
@@ -307,8 +307,8 @@ msgid ""
 msgstr ""
 
 #. [value]: id=collar
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:585
 #: To_Lands_Unknown/macros/items.cfg:396
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:585
 msgid "collar"
 msgstr ""
 
@@ -318,10 +318,10 @@ msgid ""
 "After death the unit is recalled back to leader. Activates only 3 times."
 msgstr ""
 
-#. [scenario]: id=07_Ka-gatta
 #. [option]: speaker=narrator
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:565
+#. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/macros/items.cfg:422
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:565
 msgid "collar^Leave it"
 msgstr ""
 
@@ -330,16 +330,16 @@ msgstr ""
 msgid "Should the unit pick up the amulet?"
 msgstr ""
 
-#. [scenario]: id=07_Ka-gatta
 #. [option]: speaker=narrator
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:603
+#. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/macros/items.cfg:459
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:603
 msgid "amulet^Take it"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:605
 #: To_Lands_Unknown/macros/items.cfg:463
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:605
 msgid "Amulet of Metamorph"
 msgstr ""
 
@@ -355,10 +355,10 @@ msgid ""
 "(use right-click on the unit to activate)"
 msgstr ""
 
-#. [scenario]: id=07_Ka-gatta
 #. [option]: speaker=narrator
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:603
+#. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/macros/items.cfg:505
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:603
 msgid "amulet^Leave it"
 msgstr ""
 
@@ -387,17 +387,17 @@ msgstr ""
 msgid "... NOT THE HALF OF IT!!!"
 msgstr ""
 
-#. [message]: speaker=Mehir
-#. [message]: speaker=Rashti
 #. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/16_The_City_of_Light.cfg:150
-#: To_Lands_Unknown/scenarios/09_Chaos.cfg:378
-#: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:649
-#: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:988
+#. [message]: speaker=Rashti
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown/macros/scenario-deaths.cfg:66
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:358
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:401
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:722
-#: To_Lands_Unknown/macros/scenario-deaths.cfg:66
+#: To_Lands_Unknown/scenarios/09_Chaos.cfg:378
+#: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:649
+#: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:988
+#: To_Lands_Unknown/scenarios/16_The_City_of_Light.cfg:150
 msgid "..."
 msgstr ""
 
@@ -1078,96 +1078,96 @@ msgid "Defend al-Kamija"
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown/scenarios/11_Mag-Magar.cfg:257
-#: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:106
-#: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:724
-#: To_Lands_Unknown/scenarios/10_Message.cfg:106
-#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:24
-#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:620
-#: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:213
+#: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:180
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:427
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:955
-#: To_Lands_Unknown/scenarios/09_Chaos.cfg:153
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:96
+#: To_Lands_Unknown/scenarios/11_Mag-Magar.cfg:257
 #: To_Lands_Unknown/scenarios/03_East_of_Sud-Affar.cfg:378
 #: To_Lands_Unknown/scenarios/03_East_of_Sud-Affar.cfg:462
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:398
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:512
+#: To_Lands_Unknown/scenarios/09_Chaos.cfg:153
 #: To_Lands_Unknown/scenarios/05_Fire_Canyon.cfg:172
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:226
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:330
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:397
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:478
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:587
-#: To_Lands_Unknown/scenarios/17_The_Last_Summoner.cfg:239
-#: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:180
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:398
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:512
+#: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:213
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:96
+#: To_Lands_Unknown/scenarios/10_Message.cfg:106
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:481
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:592
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:675
+#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:24
+#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:620
+#: To_Lands_Unknown/scenarios/17_The_Last_Summoner.cfg:239
+#: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:106
+#: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:724
 msgid "Death of Mehir"
 msgstr ""
 
-#. [side]: type=I8 Ak_SummonerIII, id=Mehir
-#. [side]: type=I8 Ak_Mehir_Leader, id=Mehir
-#. [side]: type=I8 Ak_Mehir_guard, id=Mehir
-#. [side]: type=I8 Ak_Mehir_Leader, id=Mehir, id=Atiros
-#. [side]: type=I8 Ak_SummonerII, id=Mehir
 #. [side]: type=I8 Ak_SummonerIII, id=Mehir, id=Banisher
+#. [side]: type=I8 Ak_Mehir_Leader, id=Mehir, id=Atiros
+#. [side]: type=I8 Ak_SummonerIII, id=Mehir
+#. [side]: type=I8 Ak_Mehir_guard, id=Mehir
+#. [side]: type=I8 Ak_SummonerII, id=Mehir
 #. [side]: type=I8 Ak_SummonerIII, id=Mehir, id=Atiros
-#: To_Lands_Unknown/scenarios/11_Mag-Magar.cfg:19
-#: To_Lands_Unknown/scenarios/20_Home.cfg:17
-#: To_Lands_Unknown/scenarios/16_The_City_of_Light.cfg:19
-#: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:21
-#: To_Lands_Unknown/scenarios/10_Message.cfg:20
-#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:36
-#: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:19
+#. [side]: type=I8 Ak_Mehir_Leader, id=Mehir
+#: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:23
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:31
-#: To_Lands_Unknown/scenarios/09_Chaos.cfg:18
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:20
+#: To_Lands_Unknown/scenarios/11_Mag-Magar.cfg:19
 #: To_Lands_Unknown/scenarios/03_East_of_Sud-Affar.cfg:22
+#: To_Lands_Unknown/scenarios/02_Abyss.cfg:27
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:47
+#: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:17
+#: To_Lands_Unknown/scenarios/09_Chaos.cfg:18
 #: To_Lands_Unknown/scenarios/05_Fire_Canyon.cfg:21
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:30
-#: To_Lands_Unknown/scenarios/17_The_Last_Summoner.cfg:21
-#: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:23
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:47
-#: To_Lands_Unknown/scenarios/02_Abyss.cfg:27
+#: To_Lands_Unknown/scenarios/20_Home.cfg:17
+#: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:19
+#: To_Lands_Unknown/scenarios/16_The_City_of_Light.cfg:19
 #: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:20
-#: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:17
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:20
+#: To_Lands_Unknown/scenarios/10_Message.cfg:20
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:21
+#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:36
+#: To_Lands_Unknown/scenarios/17_The_Last_Summoner.cfg:21
+#: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:21
 msgid "team_name^Mehir"
 msgstr ""
 
 #. [unit_type]: id=I8 fake_mehir_throw
+#. [side]: type=I8 Ak_SummonerIII, id=Mehir, id=Banisher
+#. [side]: type=I8 Ak_Mehir_Leader, id=Mehir, id=Atiros
 #. [side]: type=I8 Ak_SummonerIII, id=Mehir
+#. [side]: type=I8 Ak_Mehir_guard, id=Mehir
+#. [side]: type=I8 Ak_SummonerII, id=Mehir
+#. [side]: type=I8 Ak_SummonerIII, id=Mehir, id=Atiros
 #. [side]: type=I8 Ak_Mehir_Leader, id=Mehir
 #. [message]: speaker=narrator
-#. [side]: type=I8 Ak_Mehir_guard, id=Mehir
-#. [side]: type=I8 Ak_Mehir_Leader, id=Mehir, id=Atiros
-#. [side]: type=I8 Ak_SummonerII, id=Mehir
-#. [side]: type=I8 Ak_SummonerIII, id=Mehir, id=Banisher
-#. [side]: type=I8 Ak_SummonerIII, id=Mehir, id=Atiros
 #: To_Lands_Unknown/units/fake_mehir.cfg:4
-#: To_Lands_Unknown/scenarios/11_Mag-Magar.cfg:23
-#: To_Lands_Unknown/scenarios/20_Home.cfg:21
-#: To_Lands_Unknown/scenarios/20_Home.cfg:387
-#: To_Lands_Unknown/scenarios/16_The_City_of_Light.cfg:23
-#: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:25
-#: To_Lands_Unknown/scenarios/10_Message.cfg:24
-#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:40
-#: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:23
+#: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:27
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:35
-#: To_Lands_Unknown/scenarios/09_Chaos.cfg:22
-#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:24
+#: To_Lands_Unknown/scenarios/11_Mag-Magar.cfg:23
 #: To_Lands_Unknown/scenarios/03_East_of_Sud-Affar.cfg:26
+#: To_Lands_Unknown/scenarios/02_Abyss.cfg:31
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:51
+#: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:21
+#: To_Lands_Unknown/scenarios/09_Chaos.cfg:22
 #: To_Lands_Unknown/scenarios/05_Fire_Canyon.cfg:25
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:34
-#: To_Lands_Unknown/scenarios/17_The_Last_Summoner.cfg:25
-#: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:27
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:51
-#: To_Lands_Unknown/scenarios/02_Abyss.cfg:31
+#: To_Lands_Unknown/scenarios/20_Home.cfg:21
+#: To_Lands_Unknown/scenarios/20_Home.cfg:387
+#: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:23
+#: To_Lands_Unknown/scenarios/16_The_City_of_Light.cfg:23
 #: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:24
-#: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:21
+#: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:24
+#: To_Lands_Unknown/scenarios/10_Message.cfg:24
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:27
+#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:40
+#: To_Lands_Unknown/scenarios/17_The_Last_Summoner.cfg:25
+#: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:25
 msgid "Mehir"
 msgstr ""
 
@@ -1196,28 +1196,28 @@ msgstr ""
 msgid "Kalib"
 msgstr ""
 
-#. [side]: type=I8 enlightened_master_of_air, id=Aerius
 #. [side]: type=I8_DB_Shaman, id=Rhaxiz
-#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:106
+#. [side]: type=I8 enlightened_master_of_air, id=Aerius
 #: To_Lands_Unknown/scenarios/03_East_of_Sud-Affar.cfg:101
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:45
+#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:106
 msgid "team_name^Enemy"
 msgstr ""
 
 #. [side]: type=I8 enlightened_master_of_air, id=Aerius
 #. [event]: id=Aerius, id=Guru side 3}
-#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:111
-#: To_Lands_Unknown/scenarios/09_Chaos.cfg:40
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:50
 #: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:152
+#: To_Lands_Unknown/scenarios/09_Chaos.cfg:40
+#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:111
 msgid "Aerius"
 msgstr ""
 
 #. [side]
 #. [side]: type=I8 Ak_SummonerIII, id=Jaffar
-#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:131
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:69
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:287
+#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:131
 msgid "team_name^Army of Sud-Affar"
 msgstr ""
 
@@ -1360,19 +1360,19 @@ msgstr ""
 #. [unit]: id=Elder2, type=I8 Ak_Elder
 #. [unit]: id=Elder3, type=I8 Ak_Elder
 #: To_Lands_Unknown/units/Elder.cfg:4
+#: To_Lands_Unknown/scenarios/02_Abyss.cfg:172
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:55
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:64
 #: To_Lands_Unknown/scenarios/10_Message.cfg:65
 #: To_Lands_Unknown/scenarios/10_Message.cfg:74
 #: To_Lands_Unknown/scenarios/10_Message.cfg:83
 #: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:563
-#: To_Lands_Unknown/scenarios/02_Abyss.cfg:172
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:55
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:64
 msgid "Elder"
 msgstr ""
 
 #. [unit]: type=I8 Ak_Masterofbalance, id=Samir
-#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:574
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:106
+#: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:574
 msgid "Samir"
 msgstr ""
 
@@ -2259,11 +2259,11 @@ msgstr ""
 msgid "Dash bodies on rocks below!!"
 msgstr ""
 
-#. [message]: speaker=Mehir
 #. [message]: speaker=Anthi
-#: To_Lands_Unknown/scenarios/10_Message.cfg:198
-#: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:166
+#. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:492
+#: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:166
+#: To_Lands_Unknown/scenarios/10_Message.cfg:198
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:970
 msgid "!!!"
 msgstr ""
@@ -2800,8 +2800,8 @@ msgid "Ka-gatta"
 msgstr ""
 
 #. [side]
-#: To_Lands_Unknown/scenarios/10_Message.cfg:39
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:39
+#: To_Lands_Unknown/scenarios/10_Message.cfg:39
 msgid "team_name^Unknown"
 msgstr ""
 
@@ -3262,13 +3262,13 @@ msgstr ""
 msgid "team_name^Expedition"
 msgstr ""
 
-#. [side]: type=I8 enlightened_mage_of_air, id=Mage
 #. [message]: speaker=narrator
+#. [side]: type=I8 enlightened_mage_of_air, id=Mage
 #. [side]: type=I8 enlightened_mastermage, id=Mastermage
-#: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:52
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:643
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:653
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:664
+#: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:52
 #: To_Lands_Unknown/scenarios/17_The_Last_Summoner.cfg:67
 msgid "Mage"
 msgstr ""
@@ -3334,28 +3334,28 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:209
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:394
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:508
+#: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:209
 msgid "Defeat all enemies"
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown/scenarios/11_Mag-Magar.cfg:261
-#: To_Lands_Unknown/scenarios/10_Message.cfg:110
-#: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:217
+#: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:184
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:431
+#: To_Lands_Unknown/scenarios/11_Mag-Magar.cfg:261
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:402
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:516
+#: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:230
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:157
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:230
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:334
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:401
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:482
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:591
+#: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:217
+#: To_Lands_Unknown/scenarios/10_Message.cfg:110
 #: To_Lands_Unknown/scenarios/17_The_Last_Summoner.cfg:243
-#: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:184
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:402
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:516
-#: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:230
 msgid "Death of Rashti"
 msgstr ""
 
@@ -3468,8 +3468,8 @@ msgid "You shall pay a mouth of sand for this. Kill him and set Tashkar free!"
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/09_Chaos.cfg:149
 #: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:226
+#: To_Lands_Unknown/scenarios/09_Chaos.cfg:149
 msgid "Defeat Aerius"
 msgstr ""
 
@@ -3633,10 +3633,10 @@ msgstr ""
 msgid "Message"
 msgstr ""
 
-#. [side]
 #. [side]: (id=Elder3)}, (id=Elder4)}
-#: To_Lands_Unknown/scenarios/10_Message.cfg:51
+#. [side]
 #: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:39
+#: To_Lands_Unknown/scenarios/10_Message.cfg:51
 msgid "team_name^Highest Council"
 msgstr ""
 
@@ -4155,23 +4155,23 @@ msgid "Reficul"
 msgstr ""
 
 #. [side]
-#: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:80
-#: To_Lands_Unknown/scenarios/17_The_Last_Summoner.cfg:106
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:70
 #: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:75
+#: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:80
+#: To_Lands_Unknown/scenarios/17_The_Last_Summoner.cfg:106
 msgid "team_name^Rashti"
 msgstr ""
 
-#. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, id=Kirios)}
-#. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, (id=Adviser
-#. [side]: type=I8 Kharos_SunGoldenwarrior
 #. [side]
+#. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, (id=Adviser
 #. [side]: type=I8 Kharos_SunPlatinumwarrior, id=Dedylos
-#: To_Lands_Unknown/scenarios/16_The_City_of_Light.cfg:38
-#: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:297
-#: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:52
+#. [side]: type=I8 Kharos_SunGoldenwarrior
+#. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, id=Kirios)}
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:87
+#: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:297
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:70
+#: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:52
+#: To_Lands_Unknown/scenarios/16_The_City_of_Light.cfg:38
 msgid "team_name^Kharos"
 msgstr ""
 
@@ -4977,8 +4977,8 @@ msgid "Yes."
 msgstr ""
 
 #. [unstore_unit]
-#: To_Lands_Unknown/units/Mehir_Leader.cfg:170
 #: To_Lands_Unknown/units/AlKamija_LastSummoner.cfg:657
+#: To_Lands_Unknown/units/Mehir_Leader.cfg:170
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:750
 msgid "8"
 msgstr ""
@@ -5013,17 +5013,17 @@ msgstr ""
 msgid "team_name^Dedylos"
 msgstr ""
 
-#. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, id=Kirios)}
 #. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, (id=Adviser
-#: To_Lands_Unknown/scenarios/16_The_City_of_Light.cfg:42
+#. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, id=Kirios)}
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:301
+#: To_Lands_Unknown/scenarios/16_The_City_of_Light.cfg:42
 msgid "Anthi"
 msgstr ""
 
-#. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, id=Kirios)}
 #. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, (id=Adviser
-#: To_Lands_Unknown/scenarios/16_The_City_of_Light.cfg:53
+#. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, id=Kirios)}
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:312
+#: To_Lands_Unknown/scenarios/16_The_City_of_Light.cfg:53
 msgid "Bodyguard"
 msgstr ""
 
@@ -5799,14 +5799,14 @@ msgid "Enlightenment"
 msgstr ""
 
 #. [side]: type=I8 enlightened_Guru, id=Guru
-#: To_Lands_Unknown/scenarios/20_Home.cfg:34
 #: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:36
+#: To_Lands_Unknown/scenarios/20_Home.cfg:34
 msgid "team_name^Mages"
 msgstr ""
 
 #. [side]: type=I8 enlightened_Guru, id=Guru
-#: To_Lands_Unknown/scenarios/20_Home.cfg:38
 #: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:40
+#: To_Lands_Unknown/scenarios/20_Home.cfg:38
 msgid "Guru"
 msgstr ""
 
@@ -6665,19 +6665,19 @@ msgid "The fearful and cruel DharmaRhami."
 msgstr ""
 
 #. [attack]: type=blade
-#: To_Lands_Unknown/units/AlKamija_Rashti.cfg:111
 #: To_Lands_Unknown/units/AlKamija_DharmaRashti2.cfg:109
 #: To_Lands_Unknown/units/AlKamija_DharmaRashti.cfg:110
 #: To_Lands_Unknown/units/AlKamija_Rashti2.cfg:110
+#: To_Lands_Unknown/units/AlKamija_Rashti.cfg:111
 msgid "scimitar"
 msgstr ""
 
 #. [attack]: type=fire
-#: To_Lands_Unknown/units/AlKamija_Rashti.cfg:137
 #: To_Lands_Unknown/units/AlKamija_DharmaRashti2.cfg:122
 #: To_Lands_Unknown/units/AlKamija_DharmaRashti.cfg:123
 #: To_Lands_Unknown/units/AlKamija_TrueRashti.cfg:138
 #: To_Lands_Unknown/units/AlKamija_Rashti2.cfg:136
+#: To_Lands_Unknown/units/AlKamija_Rashti.cfg:137
 msgid "fireball"
 msgstr ""
 
@@ -6696,21 +6696,21 @@ msgid "The calm and wise HoRhami."
 msgstr ""
 
 #. [attack]: type=pierce
-#: To_Lands_Unknown/units/AlKamija_Rashti.cfg:124
 #: To_Lands_Unknown/units/AlKamija_HoRashti.cfg:111
-#: To_Lands_Unknown/units/AlKamija_HoRashti2.cfg:110
 #: To_Lands_Unknown/units/AlKamija_TrueRashti.cfg:125
+#: To_Lands_Unknown/units/AlKamija_HoRashti2.cfg:110
 #: To_Lands_Unknown/units/AlKamija_Rashti2.cfg:123
+#: To_Lands_Unknown/units/AlKamija_Rashti.cfg:124
 msgid "divine spear"
 msgstr ""
 
 #. [attack]: type=pierce
 #. [attack]: type=cold
-#: To_Lands_Unknown/units/AlKamija_Rashti.cfg:149
 #: To_Lands_Unknown/units/AlKamija_HoRashti.cfg:124
-#: To_Lands_Unknown/units/AlKamija_HoRashti2.cfg:123
 #: To_Lands_Unknown/units/AlKamija_TrueRashti.cfg:150
+#: To_Lands_Unknown/units/AlKamija_HoRashti2.cfg:123
 #: To_Lands_Unknown/units/AlKamija_Rashti2.cfg:148
+#: To_Lands_Unknown/units/AlKamija_Rashti.cfg:149
 msgid "iceball"
 msgstr ""
 
@@ -6737,8 +6737,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: To_Lands_Unknown/units/AlKamija_TrueRashti.cfg:111
 #: To_Lands_Unknown/units/AlKamija_LastSummoner.cfg:171
+#: To_Lands_Unknown/units/AlKamija_TrueRashti.cfg:111
 msgid "magical scimitar"
 msgstr ""
 
@@ -6762,17 +6762,17 @@ msgstr ""
 msgid "incantation of power"
 msgstr ""
 
-#. [unit_type]: id=I8 Ak_Rashti, race=I8 magical
 #. [unit_type]: id=I8 Ak_Rashti2, race=I8 magical
-#: To_Lands_Unknown/units/AlKamija_Rashti.cfg:4
+#. [unit_type]: id=I8 Ak_Rashti, race=I8 magical
 #: To_Lands_Unknown/units/AlKamija_Rashti2.cfg:4
+#: To_Lands_Unknown/units/AlKamija_Rashti.cfg:4
 msgid "RashtiRhami"
 msgstr ""
 
-#. [unit_type]: id=I8 Ak_Rashti, race=I8 magical
 #. [unit_type]: id=I8 Ak_Rashti2, race=I8 magical
-#: To_Lands_Unknown/units/AlKamija_Rashti.cfg:19
+#. [unit_type]: id=I8 Ak_Rashti, race=I8 magical
 #: To_Lands_Unknown/units/AlKamija_Rashti2.cfg:18
+#: To_Lands_Unknown/units/AlKamija_Rashti.cfg:19
 msgid ""
 "The RashtiRhami also called the Ultimate Rhami is one of the 4 most powerful "
 "beings called by Summoners. RashtiRhami consists of two powerful entities — "
@@ -6780,8 +6780,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=pierce
-#: To_Lands_Unknown/units/AlKamija_Rashti.cfg:161
 #: To_Lands_Unknown/units/AlKamija_Rashti2.cfg:160
+#: To_Lands_Unknown/units/AlKamija_Rashti.cfg:161
 msgid "light beam"
 msgstr ""
 
@@ -6803,11 +6803,11 @@ msgstr ""
 msgid "eye of Abyss"
 msgstr ""
 
-#. [unit_type]: id=I8_DB_Messenger1, race=I8 salamander
 #. [unit_type]: id=I8 Ak_Elder, race=akhuman
 #. [unit_type]: id=I8 Ak_Jaffar, race=akhuman
-#: To_Lands_Unknown/units/DB_Messenger.cfg:18
+#. [unit_type]: id=I8_DB_Messenger1, race=I8 salamander
 #: To_Lands_Unknown/units/Elder.cfg:18 To_Lands_Unknown/units/Jaffar.cfg:21
+#: To_Lands_Unknown/units/DB_Messenger.cfg:18
 msgid "."
 msgstr ""
 
@@ -6847,8 +6847,8 @@ msgid "Max HP bonus +5, MAX XP +10%"
 msgstr ""
 
 #. [advancement]: id=AMLA_HP
-#: To_Lands_Unknown/units/Mehir_Commander2.cfg:12
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:87
+#: To_Lands_Unknown/units/Mehir_Commander2.cfg:12
 msgid "Max HP bonus +5"
 msgstr ""
 

@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-04-18 06:05-0400\n"
-"PO-Revision-Date: 2010-12-31 14:23+0100\n"
-"Last-Translator: Automatically generated <>\n"
+"PO-Revision-Date: 2011-04-18 22:00-0500\n"
+"Last-Translator: Alarantalara\n"
 "Language-Team: none <>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -58,15 +58,13 @@ msgstr ""
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:52
-#, fuzzy
 msgid "To Lands Unknown"
-msgstr "Vers des terres Inconnues "
+msgstr "Vers les terres Inconnue"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:53
-#, fuzzy
 msgid "TLU"
-msgstr "TLU"
+msgstr "VltI"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:58
@@ -77,11 +75,10 @@ msgstr "Invocateur Novice"
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:58
 msgid "(Easy)"
-msgstr ""
+msgstr "(facile)"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:59
-#, fuzzy
 msgid "(Normal)"
 msgstr "(normal)"
 
@@ -94,7 +91,7 @@ msgstr "Invocateur"
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:60
 msgid "(Hard)"
-msgstr ""
+msgstr "(difficile)"
 
 #. [campaign]: id=To_Lands_Unknown
 #: To_Lands_Unknown/_main.cfg:60
@@ -109,9 +106,8 @@ msgstr ""
 
 #. [about]
 #: To_Lands_Unknown/about.cfg:4
-#, fuzzy
 msgid "Campaign Design"
-msgstr "Concept de la Campagne"
+msgstr "Conception de la campagne"
 
 #. [about]
 #: To_Lands_Unknown/about.cfg:10
@@ -122,7 +118,7 @@ msgstr "Illustrations & concepts de niveaux"
 #. [about]
 #: To_Lands_Unknown/about.cfg:16
 msgid "Programming"
-msgstr ""
+msgstr "Programmation"
 
 #. [about]
 #: To_Lands_Unknown/about.cfg:31
@@ -479,7 +475,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:722
 #: To_Lands_Unknown/macros/scenario-deaths.cfg:66
 msgid "..."
-msgstr ""
+msgstr "…"
 
 #. [message]: speaker=Dedylos
 #: To_Lands_Unknown/macros/scenario-deaths.cfg:82
@@ -1151,7 +1147,7 @@ msgstr "Vers des terres Inconnues "
 #. [terrain_type]: id=cavewall
 #: To_Lands_Unknown/macros/terrain_base.cfg:12
 msgid "Cave Wall"
-msgstr ""
+msgstr "Mur de caverne"
 
 #. [terrain_type]: id=overlay_placeholder
 #: To_Lands_Unknown/macros/terrain_base.cfg:22
@@ -1173,7 +1169,7 @@ msgstr ""
 #. [terrain_type]: id=flat_bg
 #: To_Lands_Unknown/macros/terrain_base.cfg:62
 msgid "Flat"
-msgstr ""
+msgstr "Plat"
 
 #. [terrain_type]: id=dwarven_castle_bg
 #: To_Lands_Unknown/macros/terrain_base.cfg:71
@@ -1188,38 +1184,37 @@ msgstr ""
 #. [time]: id=dawn_rain
 #: To_Lands_Unknown/macros/terrain_m14.cfg:6
 msgid "Dawn"
-msgstr ""
+msgstr "Aube"
 
 #. [time]: id=morning_rain
 #: To_Lands_Unknown/macros/terrain_m14.cfg:17
 msgid "Morning"
-msgstr ""
+msgstr "Matinée"
 
 #. [time]: id=afternoon_rain
 #: To_Lands_Unknown/macros/terrain_m14.cfg:26
 msgid "Afternoon"
-msgstr ""
+msgstr "Après-midi"
 
 #. [time]: id=dusk_rain
 #: To_Lands_Unknown/macros/terrain_m14.cfg:35
 msgid "Dusk"
-msgstr ""
+msgstr "Crépuscule"
 
 #. [time]: id=first_watch_rain
 #: To_Lands_Unknown/macros/terrain_m14.cfg:46
 msgid "First Watch"
-msgstr ""
+msgstr "Premier quart"
 
 #. [time]: id=second_watch_rain
 #: To_Lands_Unknown/macros/terrain_m14.cfg:58
 msgid "Second Watch"
-msgstr ""
+msgstr "Deuxième quart"
 
 #. [scenario]: id=01_al-Kamija
 #: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:6
-#, fuzzy
 msgid "al-Kamija"
-msgstr "Al-kamija"
+msgstr "al-Kamija"
 
 #. [objective]: condition=win
 #: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:20
@@ -1254,7 +1249,6 @@ msgstr "Défendre Al-Kamija"
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:481
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:592
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:675
-#, fuzzy
 msgid "Death of Mehir"
 msgstr "Mort de Mehir"
 
@@ -1286,7 +1280,7 @@ msgstr "Mort de Mehir"
 #: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:17
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:21
 msgid "team_name^Mehir"
-msgstr ""
+msgstr "Mehir"
 
 #. [unit_type]: id=I8 fake_mehir_throw
 #. [side]: type=I8 Ak_SummonerIII, id=Mehir
@@ -1376,7 +1370,7 @@ msgstr "Armée de Sud-Affar"
 #. [print]
 #: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:182
 msgid "inferno8 presents"
-msgstr ""
+msgstr "inferno8 présente"
 
 #. [print]
 #: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:192
@@ -1557,14 +1551,12 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:172
 #: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:55
 #: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:64
-#, fuzzy
 msgid "Elder"
 msgstr "Ancien"
 
 #. [unit]: type=I8 Ak_Masterofbalance, id=Samir
 #: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:574
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:106
-#, fuzzy
 msgid "Samir"
 msgstr "Samir"
 
@@ -1592,7 +1584,6 @@ msgstr "Entrée du Palais Central"
 
 #. [objective]: condition=lose
 #: To_Lands_Unknown/scenarios/01_al-Kamija.cfg:624
-#, fuzzy
 msgid "Death of Elder"
 msgstr "Mort d'un Ancien"
 
@@ -1828,7 +1819,6 @@ msgstr "Est-ce vrai? Les avez-vous arrètés, jeune homme?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:361
-#, fuzzy
 msgid "It is my duty."
 msgstr "C'est mon devoir."
 
@@ -1862,15 +1852,13 @@ msgstr "Excellent, je te nomme mon assistant."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:381
-#, fuzzy
 msgid "Hurray!"
-msgstr "hourra!"
+msgstr "Hourra !"
 
 #. [scenario]: id=03_East_of_Sud-Affar
 #: To_Lands_Unknown/scenarios/03_East_of_Sud-Affar.cfg:6
-#, fuzzy
 msgid "East of Sud-Affar"
-msgstr "Est de Sud-affar"
+msgstr "Est de Sud-Affar"
 
 #. [unit]: id=Bakha, type=I8 Ak_HeavyCamelRider
 #: To_Lands_Unknown/scenarios/03_East_of_Sud-Affar.cfg:75
@@ -2203,17 +2191,17 @@ msgstr ""
 #. [message]: speaker=Rhaxiz
 #: To_Lands_Unknown/scenarios/03_East_of_Sud-Affar.cfg:695
 msgid "Raa!! Ssss! KHAVARANAX!!!"
-msgstr ""
+msgstr "Raa !! Ssss ! KHAVARANAX !!!"
 
 #. [message]: speaker=Rhaxiz
 #: To_Lands_Unknown/scenarios/03_East_of_Sud-Affar.cfg:703
 msgid "VAX! Nakavi AX!"
-msgstr ""
+msgstr "VAX ! Nakavi AX !"
 
 #. [scenario]: id=04_Southern_Nations
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:6
 msgid "Southern Nations"
-msgstr ""
+msgstr "Les Nations du Sud"
 
 #. [side]: type=I8_DB_MysticalToadRecruit, id=Rhaxiz
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:42
@@ -2230,7 +2218,6 @@ msgstr "Barbares"
 
 #. [side]: type=I8 Barbarian_GreatBarbarian, id=Broghur
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:170
-#, fuzzy
 msgid "Brogh’ur"
 msgstr "Brogh'ur"
 
@@ -2247,9 +2234,8 @@ msgstr "Jaffar"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:335
-#, fuzzy
 msgid "Strange..."
-msgstr "Etrange"
+msgstr "Étrange…"
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:339
@@ -2335,9 +2321,8 @@ msgstr "Hiiiilafaiiii!"
 
 #. [message]: speaker=Broghur
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:427
-#, fuzzy
 msgid "Kill them!"
-msgstr "Tuez-les!"
+msgstr "Tuez-les !"
 
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:432
@@ -2479,9 +2464,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:667
-#, fuzzy
 msgid "Kill Brogh’ur"
-msgstr "Brogh'ur"
+msgstr "Tuer Brogh'ur"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:686
@@ -2546,7 +2530,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:728
 msgid "But..."
-msgstr ""
+msgstr "Mais…"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:739
@@ -2729,7 +2713,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: To_Lands_Unknown/scenarios/05_Fire_Canyon.cfg:149
 msgid "A lizard dies"
-msgstr ""
+msgstr "Mort de un lézard"
 
 #. [objective]: condition=win
 #: To_Lands_Unknown/scenarios/05_Fire_Canyon.cfg:159
@@ -2958,7 +2942,7 @@ msgstr ""
 #. [message]: speaker=$unit.id
 #: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:404
 msgid "Another one!"
-msgstr ""
+msgstr "Un autre !"
 
 #. [message]: speaker=$unit.id
 #: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:410
@@ -3054,7 +3038,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:823
 msgid "Alf laylah wa laylah!"
-msgstr ""
+msgstr "Alf laylah wa laylah !"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:876
@@ -3170,7 +3154,7 @@ msgstr ""
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:6
 msgid "Ka-gatta"
-msgstr ""
+msgstr "Ka-gatta"
 
 #. [side]
 #: To_Lands_Unknown/scenarios/10_Message.cfg:39
@@ -3616,7 +3600,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:670
 msgid "Damn!"
-msgstr ""
+msgstr "Zut !"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:678
@@ -3652,7 +3636,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:863
 msgid "Follow me..."
-msgstr ""
+msgstr "Suivez-mois…"
 
 #. [scenario]: id=08_Bridge_of_Light
 #: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:6
@@ -3662,7 +3646,7 @@ msgstr ""
 #. [unit]: id=Rashti, type=I8 Ak_Rashti
 #: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:34
 msgid "Rashti"
-msgstr ""
+msgstr "Rashti"
 
 #. [side]: type=I8 enlightened_mage_of_air, id=Mage
 #: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:48
@@ -3678,7 +3662,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:664
 #: To_Lands_Unknown/scenarios/17_The_Last_Summoner.cfg:67
 msgid "Mage"
-msgstr ""
+msgstr "Mage"
 
 #. [message]: speaker=Mage
 #: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:105
@@ -3693,12 +3677,12 @@ msgstr ""
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:115
 msgid "You cannot..."
-msgstr ""
+msgstr "Vous ne pouvez pas…"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:120
 msgid "...DEFEAT ME!!!"
-msgstr ""
+msgstr "…ME VAINCRE !!!"
 
 #. [message]: speaker=Mage
 #: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:162
@@ -3764,7 +3748,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:516
 #: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:230
 msgid "Death of Rashti"
-msgstr ""
+msgstr "Mort de Rashti"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:252
@@ -3774,7 +3758,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:256
 msgid "She scares me..."
-msgstr ""
+msgstr "Elle me fait peur…"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/08_Bridge_of_Light.cfg:288
@@ -3789,12 +3773,12 @@ msgstr ""
 #. [scenario]: id=09_Chaos
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:5
 msgid "Chaos"
-msgstr ""
+msgstr "Chaos"
 
 #. [side]: type=I8 enlightened_master_of_air, id=Aerius
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:36
 msgid "team_name^Aerius"
-msgstr ""
+msgstr "Aerius"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:87
@@ -4133,7 +4117,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: To_Lands_Unknown/scenarios/10_Message.cfg:239
 msgid "No!!!"
-msgstr ""
+msgstr "Non !"
 
 #. [message]: type=I8 Ak_Elder
 #: To_Lands_Unknown/scenarios/10_Message.cfg:283
@@ -4146,12 +4130,12 @@ msgstr ""
 #. [message]: id=Mehir
 #: To_Lands_Unknown/scenarios/10_Message.cfg:293
 msgid "Azagath Mag-Magar Arath!"
-msgstr ""
+msgstr "Azagath Mag-Magar Arath !"
 
 #. [scenario]: id=11_Mag-Magar
 #: To_Lands_Unknown/scenarios/11_Mag-Magar.cfg:5
 msgid "Mag-Magar"
-msgstr ""
+msgstr "Mag-Magar"
 
 #. [side]: type=I8 Tharis_Matriarch, id=Matriarch1
 #: To_Lands_Unknown/scenarios/11_Mag-Magar.cfg:37
@@ -4231,12 +4215,12 @@ msgstr ""
 #. [message]: speaker=Matriarch1
 #: To_Lands_Unknown/scenarios/11_Mag-Magar.cfg:278
 msgid "...ris..."
-msgstr ""
+msgstr "…ris…"
 
 #. [message]: speaker=Matriarch2
 #: To_Lands_Unknown/scenarios/11_Mag-Magar.cfg:282
 msgid "...aris..."
-msgstr ""
+msgstr "…aris…"
 
 #. [message]: speaker=Matriarch3
 #: To_Lands_Unknown/scenarios/11_Mag-Magar.cfg:286
@@ -4530,7 +4514,7 @@ msgstr ""
 #. [message]: type=I8 Ak_SummonerII
 #: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:271
 msgid "Hurray!!!"
-msgstr ""
+msgstr "Hourra !"
 
 #. [message]: type=I8 Ak_CarpetMaster
 #: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:275
@@ -4555,7 +4539,7 @@ msgstr ""
 #. [side]: type=I8 Ak_EfreetiGreat, id=Reficul
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:45
 msgid "team_name^Reficul"
-msgstr ""
+msgstr "Reficul"
 
 #. [side]: type=I8 Ak_EfreetiGreat, id=Reficul
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:49
@@ -4568,7 +4552,7 @@ msgstr "Reficul"
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:70
 #: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:75
 msgid "team_name^Rashti"
-msgstr ""
+msgstr "Rashti"
 
 #. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, id=Kirios)}
 #. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, (id=Adviser
@@ -4581,7 +4565,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:87
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:70
 msgid "team_name^Kharos"
-msgstr ""
+msgstr "Kharos"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:112
@@ -4695,7 +4679,7 @@ msgstr ""
 #. [objective]: condition=win
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:176
 msgid "Defeat Reficul"
-msgstr ""
+msgstr "Vaincre Reficul"
 
 #. [objective]: condition=lose
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:188
@@ -5125,7 +5109,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:138
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:74
 msgid "Dedylos"
-msgstr ""
+msgstr "Dedylos"
 
 #. [side]
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:96
@@ -5309,7 +5293,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:406
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:520
 msgid "Death of Atiros"
-msgstr ""
+msgstr "Mort de Atiros"
 
 #. [objective]: condition=lose
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:439
@@ -5317,7 +5301,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:410
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:524
 msgid "Death of Dedylos"
-msgstr ""
+msgstr "Mort de Dedylos"
 
 #. [message]: speaker=Dedylos
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:482
@@ -5367,7 +5351,7 @@ msgstr ""
 #. [message]: speaker=Dedylos
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:600
 msgid "?!"
-msgstr ""
+msgstr "?!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:604
@@ -5383,14 +5367,14 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:627
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:608
 msgid "Yes."
-msgstr ""
+msgstr "Oui."
 
 #. [unstore_unit]
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:170
 #: To_Lands_Unknown/units/AlKamija_LastSummoner.cfg:657
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:750
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #. [scenario]: id=15_Gates_of_Kharos
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:5
@@ -5420,7 +5404,7 @@ msgstr ""
 #. [side]: type=I8 Kharos_SunPlatinumwarrior, id=Dedylos
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:134
 msgid "team_name^Dedylos"
-msgstr ""
+msgstr "Dedylos"
 
 #. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, id=Kirios)}
 #. [side]: type=I8 Kharos_LightProphetoflight, id=Anthi, (id=Adviser
@@ -5520,7 +5504,7 @@ msgstr ""
 #. [message]: speaker=Master
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:458
 msgid "...SIRAHT THES SORUTH..."
-msgstr ""
+msgstr "…SIRAHT THES SORUTH…"
 
 #. [message]: speaker=Adviser
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:496
@@ -5675,12 +5659,12 @@ msgstr ""
 #. [message]: type=I8 Ak_HoRashti
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:910
 msgid "It is not..."
-msgstr ""
+msgstr "Ce n'est pas…"
 
 #. [message]: type=I8 Ak_DharmaRashti
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:914
 msgid "...OVER YET!!!"
-msgstr ""
+msgstr "…LE FIN MAINTENANT !"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:918
@@ -6724,7 +6708,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:502
 msgid "Rashti?"
-msgstr ""
+msgstr "Rashti?"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:509
@@ -6776,7 +6760,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:619
 msgid "I..."
-msgstr ""
+msgstr "Je…"
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown/scenarios/19_Sun_Dome.cfg:645
@@ -7090,7 +7074,7 @@ msgstr ""
 #: To_Lands_Unknown/units/AlKamija_TrueRashti.cfg:138
 #: To_Lands_Unknown/units/AlKamija_Rashti2.cfg:136
 msgid "fireball"
-msgstr ""
+msgstr "boule de feu"
 
 #. [unit_type]: id=I8 Ak_HoRashti, race=I8 magical
 #. [unit_type]: id=I8 Ak_HoRashti2, race=I8 magical
@@ -7156,7 +7140,7 @@ msgstr ""
 #. [attack]: type=impact
 #: To_Lands_Unknown/units/AlKamija_LastSummoner.cfg:184
 msgid "hammer"
-msgstr ""
+msgstr "marteau"
 
 #. [attack]: type=fire
 #: To_Lands_Unknown/units/AlKamija_LastSummoner.cfg:193

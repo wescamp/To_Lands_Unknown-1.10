@@ -1,6 +1,18 @@
 To Lands Unknown - ChangeLog
 ----------------------------
 
+Version 1.5.4
+
+- Language and Translations
+    * New translation: Polish
+
+- Other
+    * Got rid of portal-end.png again
+    * Tiled the jungle terrain
+    * Tiled castle/villages in Fire Canyon
+    * Made rain match rain from Wesnoth 1.8
+    * Removed a compatability hack, thus dropping support for 1.9.4 and below
+
 Version 1.5.3
 
 - Language and Translations

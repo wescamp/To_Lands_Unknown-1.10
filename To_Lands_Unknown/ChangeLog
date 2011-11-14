@@ -1,6 +1,12 @@
 To Lands Unknown - ChangeLog
 ----------------------------
 
+Version 1.5.5
+
+- Units
+    * Made units conform to 1.9.10's AMLA XP standards
+    * Made it so that all non-EoMa units' help topics are hidden
+
 Version 1.5.4
 
 - Language and Translations

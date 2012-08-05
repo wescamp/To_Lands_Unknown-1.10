@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-17 12:52-0400\n"
-"PO-Revision-Date: 2012-08-03 11:04+0200\n"
+"PO-Revision-Date: 2012-08-05 13:40+0200\n"
 "Last-Translator: Torben Undiwill <>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -30,9 +30,9 @@ msgid ""
 "As once foretold,\n"
 "saved all life in this world.</i>"
 msgstr ""
-"<span color='#BCB088' size='large'>Nach unbekannten Landen</span>\n"
+"<span color='#BCB088' size='large'In Unbekannte Lande</span>\n"
 "\n"
-"<span font-style='italic'>So höhret\n"
+"<i>So höhret\n"
 "Fremde im verlass'nen Land\n"
 "Diese Geschicht' uralter Länder.\n"
 "Der Beschwörer von al-Kamija,\n"
@@ -42,7 +42,7 @@ msgstr ""
 "Gut wie böse,\n"
 "Und des Mehir, welcher,\n"
 "Wie einst prophezeit,\n"
-"Rettete die ganze Welt.</span>"
+"Rettete die ganze Welt.</i>"
 
 #: To_Lands_Unknown/_main.cfg:30
 msgid ""
@@ -627,7 +627,7 @@ msgstr ""
 "genommen. Nach einigen Flugstunden landeten sie an einem sehr fernen Ort "
 "direkt vor einer kleinen Echse mit zeremoniellem Kopfschmuck. Es stellte "
 "sich heraus, dass es sich um das Oberhaupt aller Wesen des Waldes handelte, "
-"\"Der Hüter\" genannt. Nachdem Rhaxiz, die Echse, der Mehir geholfen hatte, "
+"»Der Hüter« genannt. Nachdem Rhaxiz, die Echse, der Mehir geholfen hatte, "
 "seinen Bericht vorgetragen hatte, begann der Herr des Waldes ein Gespräch "
 "mit den gefangenen Beschwörern, bei dem Mehir und Jaffar erfuhren, wieso sie "
 "hierher gebracht worden waren."
@@ -649,15 +649,15 @@ msgid ""
 "in other places, the Summoners had still been observed."
 msgstr ""
 "Seit Urzeiten schützte im fernen Süden eine Rasse intelligenter Echsen, die "
-"\"Dunkelblüter\" genannt wird, ihr Land gegen die Barbarenhorden, die sich "
-"in den hiesigen Ödländern zusammenrotten. Der Dschungel des Lebens, den die "
+"»Dunkelblüter« genannt wird, ihr Land gegen die Barbarenhorden, die sich in "
+"den hiesigen Ödländern zusammenrotten. Der Dschungel des Lebens, den die "
 "Beschwörer betreten hatten, ist die Heimat der Dunkelblüter, so sehr wie die "
 "Große Wüste es für die Beschwörer ist. Dieses ungewöhnliche tropische Land "
 "für seine Bewohner ein heiliger Ort, der um jeden Preis zu schützen ist. Als "
 "die Beschwörer den Echsen begegneten, hielten sie diese der Ähnlichkeit "
 "ihrer Sprachen wegen für Barbaren. Trotzdem hatte Rhaxiz nicht angegriffen, "
 "weil Mehir erklärte, er käme nicht wie der Feind aus dem Osten, sondern aus "
-"dem Norden. Doch das Auftauchen des \"feurigen Dämonen\" erschreckte die "
+"dem Norden. Doch das Auftauchen des »feurigen Dämonen« erschreckte die "
 "Echsen so sehr, dass sie sich auf die Beschwörer stürzten, da sie dachten, "
 "sie wollten ihren heiligen Wald abbrennen. Auch wenn Rhaxiz sich "
 "zurückgezogen hatte, um den Dschungel an anderer Stelle zu verteidigen, "
@@ -677,7 +677,7 @@ msgid ""
 "death if they would so much as cut the grass."
 msgstr ""
 "Trotz Mehirs späterer Hilfe waren die Dunkelblüter wütend auf die "
-"Beschwörer. Sie sagen, bei der Erbauung des \"Teufelswegs\" sei ein Teil "
+"Beschwörer. Sie sagen, bei der Erbauung des »Teufelswegs« sei ein Teil "
 "zerstört worden, was sie nicht verzeihen könnten, insbesondere da jeder Baum "
 "ihnen heilig sei und die Neuankömmlinge aus dem Norden viele von ihnen "
 "gefällt hatten. Jaffar und Mehir erklärten so gut sie konnten, wer sie seien "
@@ -1308,8 +1308,8 @@ msgstr ""
 "beschlossen Mehirs Mannen, einen besonderen Kreis auf dem Deck zu ziehen, "
 "ähnlich dem, den die Beschwörer von Ka-Gatta vor Jahrhunderten verwendet "
 "hatten, um zwischen Oberfläche und Untergrund zu reisen. Nach ein paar "
-"Stunden war alles bereit, und der erste, der beschloss, auf die \"Fliegende "
-"Insel\" zu teleportieren, war Mehir."
+"Stunden war alles bereit, und der erste, der beschloss, auf die »Fliegende "
+"Insel« zu teleportieren, war Mehir."
 
 #. [part]
 #: To_Lands_Unknown/macros/storytxt.cfg:455
@@ -1347,13 +1347,13 @@ msgid ""
 msgstr ""
 "Als Mehir an Bord des Luftschiffes ging, erreichte ihn ein Bote aus dem "
 "Palast der Allwissenheit. Er reichte ihm eine Gabe des Guru — eine Rolle, "
-"die einen Zauber für einen mächtigen magischen Kreis beschrieb. \"Nun wirst "
+"die einen Zauber für einen mächtigen magischen Kreis beschrieb. »Nun wirst "
 "du seine Macht nutzen können, um Truppen ohne Burgen zu rekrutieren und "
 "einzuberufen, Feinde in deiner Nähe zu verlangsamen und gar zu verwunden. "
 "Das sollte deine Überlebenschancen erhöhen. Zudem stellt dir der Guru drei "
 "Um zur Verfügung. Sie sind die mächtigsten Kreaturen, die unsere "
 "Wissenschaftler je geschaffen haben. Mit ihrer Hilfe sollte die Verstärkung "
-"der Kharositen verlangsamt werden.\""
+"der Kharositen verlangsamt werden.«"
 
 #. [part]
 #: To_Lands_Unknown/macros/storytxt.cfg:461
@@ -1365,12 +1365,12 @@ msgid ""
 "you from there. Remember — you have only one chance.” Mehir listened to this "
 "all and flew away..."
 msgstr ""
-"\"Unser Luftschiff wird dich und Rashti auf den Gipfel des Berges bei der "
+"»Unser Luftschiff wird dich und Rashti auf den Gipfel des Berges bei der "
 "Sonnenkuppel  bringen, Nutze deinen neuen Kreis, um deine Truppen aus "
 "unserem Reich zu dir zu bringen. Beeile dich. Jede Minute werden neue "
 "Verteidiger erscheinen. Gehe in die Kuppel, nimm die Hälfte des Sonnenstrahl "
 "und fliehe zurück auf den Gipfel. Wir werden dich von dort evakuieren. "
-"Bedenke — du hast nur eine Chance.\" Mehir hörte all dies und hob ab."
+"Bedenke — du hast nur eine Chance.« Mehir hörte all dies und hob ab."
 
 #. [editor_group]: id=wesnoth-UMC-To_Lands_Unknown
 #: To_Lands_Unknown/macros/terrain_base.cfg:5
@@ -2621,7 +2621,7 @@ msgstr "SHATRISS XIFAAAAR!!!"
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:648
 msgid "Now it’s gonna be a piece of cake!"
-msgstr ""
+msgstr "Das wird unangenehm sein!"
 
 #. [objective]: condition=win
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:667
@@ -3258,7 +3258,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:632
 msgid "“As we bring forth, so shall we go.”"
-msgstr "\"Wie wir kommen, so sollen wir gehen.\""
+msgstr "»Wie wir kommen, so sollen wir gehen.«"
 
 #. [objective]: condition=win
 #: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:720
@@ -3282,7 +3282,7 @@ msgid ""
 "“Hashtara maroosh. Kinbala, tanbdrala, bolombralra...”"
 msgstr ""
 "Auf der Tafel steht ein alter Text, der schwer zu lesen ist.\n"
-"\"Hashtara maroosh. Kinbala, tanbdrala, bolombrala…\""
+"»Hashtara maroosh. Kinbala, tanbdrala, bolombrala…«"
 
 #. [message]: race=akhuman
 #: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:819
@@ -3331,7 +3331,7 @@ msgstr "Du bist nicht mein Meister."
 #. [message]: speaker=Hortunash
 #: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:954
 msgid "The ancient jinn intones, “How do you come to Ka-Gatta?”"
-msgstr "Der alte Djinn ertönt, \"Wie kommst du nach Ka-Gatta?\""
+msgstr "Der alte Djinn ertönt, »Wie kommst du nach Ka-Gatta?«"
 
 #. [option]: speaker=Hortunash
 #: To_Lands_Unknown/scenarios/06_Gates_to_the_Past.cfg:956
@@ -3561,7 +3561,7 @@ msgstr "...und niemand würde es je erfahren."
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:259
 msgid "Should $unit.name pick up the scimitar?"
-msgstr "Soll $unit,name den Säbel nehmen?"
+msgstr "Soll $unit.name den Säbel nehmen?"
 
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:259
@@ -3626,7 +3626,7 @@ msgstr "...MUSS STERBEN!!!"
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:318
 msgid "Should $unit.name pick up the carpet?"
-msgstr "Soll $unit,name den Teppich nehmen?"
+msgstr "Soll $unit.name den Teppich nehmen?"
 
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:318
@@ -3659,7 +3659,7 @@ msgstr "Zweihundert Goldstücke"
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:375
 msgid "Should $unit.name pick up the cloak?"
-msgstr "Soll $unit,name den Mantel nehmen?"
+msgstr "Soll $unit.name den Mantel nehmen?"
 
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:375
@@ -3669,7 +3669,7 @@ msgstr "Nur ein Kamelreiter kann das Objekt verwenden!"
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:404
 msgid "Should $unit.name pick up the cap?"
-msgstr "Soll $unit,name den Pokal nehmen?"
+msgstr "Soll $unit.name den Pokal nehmen?"
 
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:404
@@ -3728,7 +3728,7 @@ msgstr "Nimm es"
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:459
 msgid "Should $unit.name pick up the armor?"
-msgstr "Soll $unit,name den Panzer nehmen?"
+msgstr "Soll $unit.name den Panzer nehmen?"
 
 #. [object]
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:461
@@ -3773,7 +3773,7 @@ msgstr ""
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:501
 msgid "Should $unit.name pick up the spear?"
-msgstr "Soll $unit,name den Speer nehmen?"
+msgstr "Soll $unit.name den Speer nehmen?"
 
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:501
@@ -3797,7 +3797,7 @@ msgstr ""
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:547
 msgid "Should $unit.name pick up the collar?"
-msgstr "Soll $unit,name den Kragen nehmen?"
+msgstr "Soll $unit.name den Kragen nehmen?"
 
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:547
@@ -3830,7 +3830,7 @@ msgstr ""
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:585
 msgid "Should $unit.name pick up the amulet?"
-msgstr "Soll $unit,name das Amulett nehmen?"
+msgstr "Soll $unit.name das Amulett nehmen?"
 
 #. [scenario]: id=07_Ka-gatta
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:585
@@ -4105,8 +4105,8 @@ msgid ""
 "Did you enjoy my little jest upon on the bridge? “Oh no, not the scimitar. "
 "Anything but the scimitar!”"
 msgstr ""
-"Hat dir mein kleiner Scherz auf der Brücke gefallen? \"Oh nein, nicht der "
-"Säbel. Alles außer dem Säbel!\""
+"Hat dir mein kleiner Scherz auf der Brücke gefallen? »Oh nein, nicht der "
+"Säbel. Alles außer dem Säbel!«"
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:117
@@ -4178,9 +4178,9 @@ msgid ""
 "ancestors abandoned work on it about four hundred years ago."
 msgstr ""
 "Wie ich und meine Männer entdeckten, handelt es sich um ein Portal zu einem "
-"Ort, gennant \"der Rote Abgrund\". Als wir ankamen, war der Kreis "
-"unvollendet. Es scheint, als hätten eure Ahnen die Arbeit daran vor "
-"vierhunfert Jahren aufgegeben."
+"Ort, gennant »der Rote Abgrund«. Als wir ankamen, war der Kreis unvollendet. "
+"Es scheint, als hätten eure Ahnen die Arbeit daran vor vierhunfert Jahren "
+"aufgegeben."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:198
@@ -5351,7 +5351,7 @@ msgstr "HIER KOMMT DEIN TOD!!!"
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:580
 msgid "No! *starts fighting with her second half*"
-msgstr "Nein! \"beginnt, mit ihrer anderen Hilfe zu kämpfen*"
+msgstr "Nein! *beginnt, mit ihrer anderen Hilfe zu kämpfen*"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown/scenarios/13_The_Great_Desert.cfg:588
@@ -6433,7 +6433,7 @@ msgid ""
 "Anthi’s bodyguard*) need to walk with you? Couldn’t we be alone for a "
 "moment?... He distracts me."
 msgstr ""
-"Toll, aber muss diese \"Sonnenblume (*Mehir spricht ironisch über Kirios, "
+"Toll, aber muss diese »Sonnenblume (*Mehir spricht ironisch über Kirios, "
 "Anthis Leibwächter*) mitkommen? können wir nicht einen Moment alleine "
 "sein?... Er lenkt mich ab."
 
@@ -7080,7 +7080,7 @@ msgstr "Was… was ist passiert? Wo ist Aerius?"
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:385
 msgid "His ‘ashes’ are falling to the ocean."
-msgstr "Seine \"Asche\" fällt in den Ozean."
+msgstr "Seine »Asche« fällt in den Ozean."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:389
@@ -7162,7 +7162,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:429
 msgid "Anthi didn’t tell me about that ‘Ray’."
-msgstr "Anthi hat mir nichts von diesem \"Strahl\" erzählt."
+msgstr "Anthi hat mir nichts von diesem »Strahl« erzählt."
 
 #. [message]: speaker=Guru
 #: To_Lands_Unknown/scenarios/18_Enlightenment.cfg:433

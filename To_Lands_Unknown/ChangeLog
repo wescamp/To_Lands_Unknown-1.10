@@ -1,6 +1,21 @@
 To Lands Unknown - ChangeLog
 ----------------------------
 
+Version 1.6.0
+
+- Dependencies
+    * Moved all images with no translatable content into a separate add-on
+      called To Lands Unknown: Images
+    * Requires Era of Magic 1.0.0
+
+- Language and Translations
+    * New translations: German, Hungarian
+    * Updated translation: Polish
+
+- Scenarios
+    * Converted instances of Ggf to Gg^Efm in scenario 14
+
+
 Version 1.5.6
 
 - Units

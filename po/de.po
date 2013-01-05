@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: To_Lands_Unknown-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-14 07:34-0500\n"
-"PO-Revision-Date: 2012-08-06 10:00+0200\n"
+"PO-Revision-Date: 2012-12-15 13:33+0200\n"
 "Last-Translator: Torben Undiwill <>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -134,7 +134,7 @@ msgstr "Gegenlesen"
 #. [about]
 #: To_Lands_Unknown/about.cfg:58
 msgid "Translations"
-msgstr ""
+msgstr "Übersetzungen"
 
 #. [about]
 #: To_Lands_Unknown/about.cfg:73
@@ -155,12 +155,16 @@ msgstr "Zusätzliche Graphik"
 msgid ""
 "The required add-on “<i>Era of Magic</i>” is currently <b>not</b> installed."
 msgstr ""
+"Die erforderliche erforderliche Erweiterung »<i>Era of Magic</i>« ist "
+"derzeit <b>nicht</i> installiert."
 
 #: To_Lands_Unknown/dependency-utils.cfg:29
 msgid ""
 "The required add-on “<i>To Lands Unknown: Images</i>” is currently <b>not</"
 "b> installed."
 msgstr ""
+"Die erforderliche erforderliche Erweiterung »<i>To Lands Unknown: Images</"
+"i>« ist derzeit <b>nicht</i> installiert."
 
 #. [dummy]: id=metamorph
 #: To_Lands_Unknown/macros/abilities.cfg:7
@@ -393,7 +397,6 @@ msgstr "Amulett der Verwandlung"
 
 #. [object]
 #: To_Lands_Unknown/macros/items.cfg:466
-#, fuzzy
 msgid ""
 "The Ancestors were fascinated with elementals — entities made of pure "
 "energy. They also dreamed about creating a creature from a mix of all four "
@@ -470,7 +473,6 @@ msgstr ""
 
 #. [part]
 #: To_Lands_Unknown/macros/storytxt.cfg:9
-#, fuzzy
 msgid ""
 "Among a myriad of dunes, in the center of our Holy Land, an unreal palace-"
 "city lies — our capital al-Kamija.\n"
@@ -481,10 +483,10 @@ msgid ""
 "How is this possible?"
 msgstr ""
 "Zwischen Myriaden Dünen, im Zentrum unseres Heiligen Landes, liegt eine "
-"unwirtliche Palaststadt- unsere Hauptstadt al-Kamija\n"
+"befremdliche Palaststadt- unsere Hauptstadt al-Kamija\n"
 "Es ist ein außerordentlicher Ort. Er ist vor den zerstörerischen Einflüssen "
 "von Zeit und Sand gefeit. Die Sonne verbrennt seine Mauern nicht, denn sie "
-"sind immer kühl. Es mangelt an nichts, enn alles ist hier zu finden.\n"
+"sind immer kühl. Es mangelt an nichts, denn alles ist hier zu finden.\n"
 "\n"
 "Wie kann das sein?"
 
@@ -529,7 +531,6 @@ msgstr ""
 
 #. [part]
 #: To_Lands_Unknown/macros/storytxt.cfg:27
-#, fuzzy
 msgid ""
 "There was no wish that Nomolas couldn’t fulfill. To measure his potential "
 "the Ancestors wished for the most beautiful city in the world, to be located "
@@ -594,7 +595,6 @@ msgstr ""
 #. .
 #. Both "marhala" and "marahil" are in Arabic's neutral case.
 #: To_Lands_Unknown/macros/storytxt.cfg:48
-#, fuzzy
 msgid ""
 "We designed a giant circle, one that will include most of our land. The "
 "circle is 50 marahil in diameter, so we built three cities, each separated "
@@ -602,8 +602,8 @@ msgid ""
 "easier. The leaders of Mag-Magar, Tar-Tabar and Sud-Affar will supervise the "
 "works by their assistants."
 msgstr ""
-"Wir haben einen gewaltigen Kreis entworfen, welcher den größten Teil "
-"unsertes Landes umspannen wird. Der Kreis hat einen Durchmesser von 2000 km, "
+"Wir haben einen gewaltigen Kreis entworfen, welcher den größten Teil unseres "
+"Landes umspannen wird. Der Kreis hat einen Durchmesser von 50 Marahil, "
 "weshalb wir drei Städte errichtet haben, jede von den anderen genau gleich "
 "weit entfernt, um die Konstruktion zu erleichtern. Die Leiter von Mag-Magar, "
 "Tar-Tabar und Sud-Affar werden die Arbeiten durch ihre Assistenten "
@@ -1139,7 +1139,6 @@ msgstr ""
 
 #. [part]
 #: To_Lands_Unknown/macros/storytxt.cfg:391
-#, fuzzy
 msgid ""
 "Meanwhile, Mehir was announced as the greatest hero of Kharos. While his "
 "scouts were searching for possible threats from the rest of the destroyed "
@@ -2793,7 +2792,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:799
-#, fuzzy
 msgid ""
 "Tip: You can use the Heavy Summoner’s summon ability to create new units. "
 "Right-click on him for details.\n"
@@ -2804,7 +2802,7 @@ msgstr ""
 "um neue Einheiten zu erschaffen, Mit einem Rechtsklick auf ihn könnt ihr "
 "Details dazu sehen.\n"
 "\n"
-" (Alle Beschwörer der dritten Stufe haben diese Fähigkeit.)"
+" (Alle Beschwörer der dritten Stufe besitzen diese Fähigkeit.)"
 
 #. [message]: speaker=messenger
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:865
@@ -3869,7 +3867,6 @@ msgstr "Nur ein Elementargeist kann dieses Objekt verwenden!"
 
 #. [object]
 #: To_Lands_Unknown/scenarios/07_Ka-gatta.cfg:590
-#, fuzzy
 msgid ""
 "The Ancestors were fascinated with elementals — entities made of pure "
 "energy. They also dreamed about creating a creature from a mix of all four "
@@ -4250,7 +4247,6 @@ msgstr "Shakataraja Ramidajana Katarajan"
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:238
-#, fuzzy
 msgid ""
 "Muwahahahahahaha! It worked! I love the naïveté of the Abysmals. And now I "
 "will admire the sight of you falling into the Sea of Chaos!"
@@ -4399,14 +4395,13 @@ msgstr "Ich tat alles, was in meiner Macht stand, um ihn zu retten."
 
 #. [message]: speaker=Elder
 #: To_Lands_Unknown/scenarios/10_Message.cfg:133
-#, fuzzy
 msgid ""
 "We shouldn’t accuse Rashti of Tashkar’s death. Being naïve is a "
 "characteristic of the Abysmals. Luckily the true guilty party was defeated, "
 "though we will never find out who he was."
 msgstr ""
 "Wir sollten Rashti nicht für Tashkars Tod beschuldigen. Naivität ist "
-"charakteristisch  für die Abgründigen. Glücklicherweise wurde die wirklich "
+"charakteristisch für die Abgründigen. Glücklicherweise wurde die wirklich "
 "schuldige Partei besiegt, auch wenn wir nie erfahren werden, wer er war."
 
 #. [message]: speaker=Elder
@@ -5604,6 +5599,11 @@ msgid ""
 "Note that you can toggle these effects at any time during the scenario by "
 "using the relevant options in the context menu."
 msgstr ""
+"In diesem Szenario gibt es Spezialeffekte, die bei schwächeren Computern "
+"eine merkliche Verlangsamung bewirken könnnen.\n"
+"\n"
+"Ihr könnt diese Effekte jederzeit an- und ausschalten, indem Ihr die "
+"jeweilige Option im Rechtsklick-Menü auswählt."
 
 #. [option]: speaker=narrator
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:17
@@ -5634,17 +5634,17 @@ msgstr "Invasoren"
 #. [set_menu_item]: id=control_lightning
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:145
 msgid "Toggle Lightning Effects"
-msgstr ""
+msgstr "Blitzeffekte"
 
 #. [set_menu_item]: id=control_rain_sound
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:166
 msgid "Toggle Rain Sound Effects"
-msgstr ""
+msgstr "Regengeräusche"
 
 #. [set_menu_item]: id=control_rain
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:198
 msgid "Toggle Rain Visual Effects"
-msgstr ""
+msgstr "Regendarstellung"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:228
@@ -6288,7 +6288,7 @@ msgstr "Zum Wohle alller erleuchteten Wesen muss ich sie töten."
 #. [message]: type=TLU_DharmaRashti
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:938
 msgid "KILL HER!!!"
-msgstr "SIE TÖTEN!"
+msgstr "TÖTET SIE!!!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/15_Gates_of_Kharos.cfg:942
@@ -7937,8 +7937,8 @@ msgstr ""
 "(dies funktioniert nicht in Wäldern), Alle Verbündeten neben ihr kämpfen "
 "besser (+125%, +100%, +75%, +50%. +25% für Stufe 0, 1, 2, 3, 4, 5), "
 "regenerieren sich und erhalten einen Bonus von 20% auf die Magieresistenzen. "
-"Zum beginn jeder Runde werden alle gegnerischen benachbarten Einheiten "
-"verlangsamt und beschädigt."
+"Zu Beginn jeder Runde werden alle gegnerischen benachbarten Einheiten "
+"verlangsamt und ihnen 8 LP Schaden zugefügt."
 
 #. [attack]: type=blade
 #: To_Lands_Unknown/units/AlKamija_LastSummoner.cfg:171
@@ -8055,7 +8055,6 @@ msgstr "+5 maximale Lebenspunkte"
 
 #. [advancement]: id=AMLA_RESISTANCE
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:12
-#, fuzzy
 msgid "+20% bonus to fire, cold, and arcane resistances"
 msgstr "+20% Bonus für die Magieresistenzen"
 
@@ -8066,13 +8065,11 @@ msgstr "Aura der Trägheit"
 
 #. [dummy]: id=i8slowingaura
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:40
-#, fuzzy
 msgid "slowing aura"
 msgstr "Aura der Trägheit"
 
 #. [dummy]: id=i8slowingaura
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:41
-#, fuzzy
 msgid ""
 "Slowing Aura:\n"
 "At the beginning of each turn, all adjacent enemy units are slowed."
@@ -8087,13 +8084,11 @@ msgstr "Schädliche Aura"
 
 #. [dummy]: id=i8damagingaura
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:67
-#, fuzzy
 msgid "damaging aura"
 msgstr "Schädliche Aura"
 
 #. [dummy]: id=i8damagingaura
 #: To_Lands_Unknown/units/Mehir_Leader.cfg:68
-#, fuzzy
 msgid ""
 "Damaging Aura:\n"
 "At the beginning of each turn, all adjacent enemy units receive 8 points of "

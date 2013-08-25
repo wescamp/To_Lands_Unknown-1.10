@@ -1,6 +1,27 @@
 To Lands Unknown - ChangeLog
 ----------------------------
 
+Version 1.7.0
+
+Language and Translations
+    * Updated translations: Polish
+    * New translation: Italian
+
+- Scenarios
+    * New scenarios: Deep Freeze and Ruins
+    * Removed scenarios: Gates to the Past, Sun Dome
+    * Revised multiple scenarios in terms of story telling and balancing
+	
+- Maps
+    * Improved maps for scenarios 6, 7, 12, 13
+
+- Units
+    * Fixed Rashti's missing sounds
+    * Fixed Jaffar's idle animation
+
+- Misc
+    * Added special sound effects for illusion in scenario 10
+
 Version 1.6.0
 
 - Dependencies
